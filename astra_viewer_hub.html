@@ -578,7 +578,7 @@
             <div class="dynamic-island">
               <div class="island-lens"></div>
             </div>
-            <iframe id="phoneFrame" src="АСТРА_АССЕТЫ/astra_onboarding_demo.html"></iframe>
+            <iframe id="phoneFrame" src="astra_app/astra_onboarding_demo.html"></iframe>
             <div class="home-indicator"></div>
           </div>
         </div>
@@ -615,7 +615,7 @@
                 <div class="dynamic-island">
                   <div class="island-lens"></div>
                 </div>
-                <iframe id="astraCompareFrame" src="АСТРА_АССЕТЫ/astra_onboarding_demo.html"></iframe>
+                <iframe id="astraCompareFrame" src="astra_app/astra_onboarding_demo.html"></iframe>
                 <div class="home-indicator"></div>
               </div>
             </div>
@@ -809,7 +809,7 @@
         if (activeView === 'onboarding') {
           singleScalerBox.style.display = 'block';
           stepsGroup.style.display = 'flex';
-          phoneFrame.src = 'АСТРА_АССЕТЫ/astra_onboarding_demo.html';
+          phoneFrame.src = 'astra_app/astra_onboarding_demo.html';
           setStep(currentStepIndex);
         } else if (activeView === 'screens') {
           singleScalerBox.style.display = 'block';
@@ -823,13 +823,13 @@
           setStep(currentStepIndex);
         } else if (activeView === 'ritual') {
           singleScalerBox.style.display = 'block';
-          phoneFrame.src = 'АСТРА_АССЕТЫ/astra_affirmation_ritual_demo.html';
+          phoneFrame.src = 'astra_app/astra_affirmation_ritual_demo.html';
         } else if (activeView === 'videos') {
           fullFrame.style.display = 'block';
-          fullFrame.src = 'АСТРА_АССЕТЫ/astra_video_loops_gallery.html';
+          fullFrame.src = 'astra_app/astra_video_loops_gallery.html';
         } else if (activeView === 'avatars') {
           fullFrame.style.display = 'block';
-          fullFrame.src = 'АСТРА_АССЕТЫ/astra_all_avatars_gallery.html';
+          fullFrame.src = 'astra_app/astra_all_avatars_gallery.html';
         }
 
         updateLayoutScaling();
@@ -848,7 +848,7 @@
       prevScreenBtn.disabled = (idx === 0);
       nextScreenBtn.disabled = (idx === SCREENS_LIST.length - 1);
 
-      const targetUrl = `АСТРА_АССЕТЫ/astra_main_app.html?screen=${screenKey}&hide_tabs=${areTabsHidden ? '1' : '0'}`;
+      const targetUrl = `astra_app/astra_main_app.html?screen=${screenKey}&hide_tabs=${areTabsHidden ? '1' : '0'}`;
 
       // Если в фрейме уже открыта astra_main_app, отправляем postMessage для мгновенного перехода без перезагрузки
       if (phoneFrame.src && phoneFrame.src.includes('astra_main_app.html')) {

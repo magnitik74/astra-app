@@ -8,6 +8,13 @@ test_screenshots/
 /moonly_dex6_src/
 /video_frames/
 /video_frames_rabochka/
+ОРИГИНАЛЬНЫЕ_АССЕТЫ_MOONLY/
+package.json
+package-lock.json
+*.py
+*.cs
+*.exe
+*.ps1
 .git/
 *.log
 *.tmp

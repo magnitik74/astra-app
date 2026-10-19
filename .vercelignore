@@ -1,0 +1,13 @@
+node_modules/
+.temp_edge_*
+edge_cal_profile/
+test_screenshots/
+/фигасе/СОРТИРОВАННЫЕ_АССЕТЫ/
+/фигасе/json_data/
+/moonly_dex5_src/
+/moonly_dex6_src/
+/video_frames/
+/video_frames_rabochka/
+.git/
+*.log
+*.tmp

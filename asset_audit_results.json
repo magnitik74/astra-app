@@ -1,0 +1,914 @@
+{
+  "results": {
+    "total": 112,
+    "diskFound": 45,
+    "diskMissing": 67,
+    "http200": 45,
+    "httpFailed": 67,
+    "missingList": [
+      "moonly_3d_icons/ic_practice_tab_one_card_active.png",
+      "moonly_3d_icons/ic_practice_tab_all_cards_inactive.png",
+      "moonly_3d_icons/meditation_crystal.png",
+      "moonly_3d_icons/ic_practices.png",
+      "moonly_3d_icons/ic_natal_small.png",
+      "01_The_Fool.png",
+      "02_The_Magician.png",
+      "03_The_Popess_(The_High_Priestess).png",
+      "04_The_Empress.png",
+      "05_The_Emperor.png",
+      "06_The_Pope_(The_Hierophant).png",
+      "07_The_Lovers.png",
+      "08_The_Chariot.png",
+      "09_Justice.png",
+      "10_The_Hermit.png",
+      "11_Wheel_of_Fortune.png",
+      "12_Strength.png",
+      "13_The_Hanged_Man.png",
+      "14_Death.png",
+      "15_Temperance.png",
+      "16_The_Devil.png",
+      "17_The_Tower.png",
+      "18_The_Star.png",
+      "19_The_Moon.png",
+      "20_The_Sun.png",
+      "21_Judgement.png",
+      "22_The_World.png",
+      "05_Fehu.png",
+      "06_Uruz.png",
+      "02_Thurisaz.png",
+      "24_Ansuz.png",
+      "07_Raido.png",
+      "08_Kenaz.png",
+      "11_Gebo.png",
+      "13_Wunjo.png",
+      "01_Hagalaz.png",
+      "15_Nauthiz.png",
+      "04_Isa.png",
+      "03_Jera.png",
+      "23_Eihwaz.png",
+      "10_Perthro.png",
+      "22_Algiz.png",
+      "16_Sowilo.png",
+      "14_Tiwaz.png",
+      "12_Berkano.png",
+      "09_Ehwaz.png",
+      "21_Mannaz.png",
+      "20_Laguz.png",
+      "19_Inguz.png",
+      "17_Dagaz.png",
+      "18_Othala.png",
+      "01_Default_Female_Muse_journal_600.webp",
+      "02_Default_Male_Guide_journal_600.webp",
+      "zodiac_01_Aries_journal_600.webp",
+      "zodiac_02_Taurus_journal_600.webp",
+      "zodiac_03_Gemini_journal_600.webp",
+      "zodiac_04_Cancer_journal_600.webp",
+      "zodiac_05_Leo_journal_600.webp",
+      "zodiac_06_Virgo_journal_600.webp",
+      "zodiac_07_Libra_journal_600.webp",
+      "zodiac_08_Scorpio_journal_600.webp",
+      "zodiac_09_Sagittarius_journal_600.webp",
+      "zodiac_10_Capricorn_journal_600.webp",
+      "zodiac_11_Aquarius_journal_600.webp",
+      "zodiac_12_Pisces_journal_600.webp",
+      "moonly_3d_icons/moon_${day}.png",
+      "moonly_3d_icons/moon_${moonPhase}.png"
+    ],
+    "details": [
+      {
+        "relPath": "moonly_3d_icons/ic_calendar_full_view.png",
+        "exists": true,
+        "diskSize": 462,
+        "httpStatus": 200,
+        "httpBytes": 462
+      },
+      {
+        "relPath": "moonly_3d_icons/ic_calendar_dreamer.png",
+        "exists": true,
+        "diskSize": 4053,
+        "httpStatus": 200,
+        "httpBytes": 4053
+      },
+      {
+        "relPath": "moonly_3d_icons/ic_calendar_tarot.png",
+        "exists": true,
+        "diskSize": 4669,
+        "httpStatus": 200,
+        "httpBytes": 4669
+      },
+      {
+        "relPath": "09_ФОНЫ_ЛУННОГО_КАЛЕНДАРЯ/02_The_13th_Moon_Day.jpg",
+        "exists": true,
+        "diskSize": 49557,
+        "httpStatus": 200,
+        "httpBytes": 49557
+      },
+      {
+        "relPath": "moonly_3d_icons/ic_new_spirituality.png",
+        "exists": true,
+        "diskSize": 984,
+        "httpStatus": 200,
+        "httpBytes": 984
+      },
+      {
+        "relPath": "moonly_3d_icons/ic_calendar_v2_arrow.png",
+        "exists": true,
+        "diskSize": 353,
+        "httpStatus": 200,
+        "httpBytes": 353
+      },
+      {
+        "relPath": "moonly_3d_icons/ic_new_beauty.png",
+        "exists": true,
+        "diskSize": 1308,
+        "httpStatus": 200,
+        "httpBytes": 1308
+      },
+      {
+        "relPath": "moonly_3d_icons/moon_13.png",
+        "exists": true,
+        "diskSize": 11114,
+        "httpStatus": 200,
+        "httpBytes": 11114
+      },
+      {
+        "relPath": "moonly_3d_icons/ic_transit_zodiac_taurus.png",
+        "exists": true,
+        "diskSize": 681,
+        "httpStatus": 200,
+        "httpBytes": 681
+      },
+      {
+        "relPath": "moonly_3d_icons/ic_new_nutrition.png",
+        "exists": true,
+        "diskSize": 1027,
+        "httpStatus": 200,
+        "httpBytes": 1027
+      },
+      {
+        "relPath": "moonly_3d_icons/ic_new_health.png",
+        "exists": true,
+        "diskSize": 1039,
+        "httpStatus": 200,
+        "httpBytes": 1039
+      },
+      {
+        "relPath": "moonly_3d_icons/ic_new_romance.png",
+        "exists": true,
+        "diskSize": 1139,
+        "httpStatus": 200,
+        "httpBytes": 1139
+      },
+      {
+        "relPath": "moonly_3d_icons/ic_new_career.png",
+        "exists": true,
+        "diskSize": 1033,
+        "httpStatus": 200,
+        "httpBytes": 1033
+      },
+      {
+        "relPath": "moonly_3d_icons/ic_practice_tab_one_card_active.png",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 92
+      },
+      {
+        "relPath": "moonly_3d_icons/ic_practice_tab_all_cards_inactive.png",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 95
+      },
+      {
+        "relPath": "moonly_3d_icons/ic_tarot_card_back_v3.png",
+        "exists": true,
+        "diskSize": 37077,
+        "httpStatus": 200,
+        "httpBytes": 37077
+      },
+      {
+        "relPath": "01_ТАРО_КАРТЫ/03_The_Popess_(The_High_Priestess).png",
+        "exists": true,
+        "diskSize": 403698,
+        "httpStatus": 200,
+        "httpBytes": 403698
+      },
+      {
+        "relPath": "moonly_3d_icons/ic_taros_arrow.png",
+        "exists": true,
+        "diskSize": 1214,
+        "httpStatus": 200,
+        "httpBytes": 1214
+      },
+      {
+        "relPath": "moonly_3d_icons/ic_taros_reset.png",
+        "exists": true,
+        "diskSize": 721,
+        "httpStatus": 200,
+        "httpBytes": 721
+      },
+      {
+        "relPath": "moonly_3d_icons/meditation_crystal.png",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 79
+      },
+      {
+        "relPath": "10_ПЕРСОНАЖИ_ИИ_АСТРОЛОГИ/01_Luna_Wise_Mystic.png",
+        "exists": true,
+        "diskSize": 4125,
+        "httpStatus": 200,
+        "httpBytes": 4125
+      },
+      {
+        "relPath": "moonly_3d_icons/ic_you_report_forward.png",
+        "exists": true,
+        "diskSize": 343,
+        "httpStatus": 200,
+        "httpBytes": 343
+      },
+      {
+        "relPath": "moonly_3d_icons/ic_settings_you.png",
+        "exists": true,
+        "diskSize": 557,
+        "httpStatus": 200,
+        "httpBytes": 557
+      },
+      {
+        "relPath": "11_ДЕФОЛТНЫЕ_И_AI_АВАТАРЫ/01_Default_Female_Muse_journal_600.webp",
+        "exists": true,
+        "diskSize": 27376,
+        "httpStatus": 200,
+        "httpBytes": 27376
+      },
+      {
+        "relPath": "moonly_3d_icons/ic_avatar_star_border_small_2.png",
+        "exists": true,
+        "diskSize": 5412,
+        "httpStatus": 200,
+        "httpBytes": 5412
+      },
+      {
+        "relPath": "moonly_3d_icons/ic_exclude.png",
+        "exists": true,
+        "diskSize": 759,
+        "httpStatus": 200,
+        "httpBytes": 759
+      },
+      {
+        "relPath": "moonly_3d_icons/ic_you_report_birth_chart.png",
+        "exists": true,
+        "diskSize": 29398,
+        "httpStatus": 200,
+        "httpBytes": 29398
+      },
+      {
+        "relPath": "moonly_3d_icons/ic_you_report_numerology.png",
+        "exists": true,
+        "diskSize": 39365,
+        "httpStatus": 200,
+        "httpBytes": 39365
+      },
+      {
+        "relPath": "moonly_3d_icons/ic_you_report_year.png",
+        "exists": true,
+        "diskSize": 22934,
+        "httpStatus": 200,
+        "httpBytes": 22934
+      },
+      {
+        "relPath": "moonly_3d_icons/ic_you_report_career.png",
+        "exists": true,
+        "diskSize": 32471,
+        "httpStatus": 200,
+        "httpBytes": 32471
+      },
+      {
+        "relPath": "moonly_3d_icons/ic_you_report_astrocartography.png",
+        "exists": true,
+        "diskSize": 23797,
+        "httpStatus": 200,
+        "httpBytes": 23797
+      },
+      {
+        "relPath": "moonly_3d_icons/ic_you_report_compatibility.png",
+        "exists": true,
+        "diskSize": 23383,
+        "httpStatus": 200,
+        "httpBytes": 23383
+      },
+      {
+        "relPath": "moonly_3d_icons/ic_comp_romance.png",
+        "exists": true,
+        "diskSize": 7628,
+        "httpStatus": 200,
+        "httpBytes": 7628
+      },
+      {
+        "relPath": "moonly_3d_icons/ic_comp_karmic.png",
+        "exists": true,
+        "diskSize": 8905,
+        "httpStatus": 200,
+        "httpBytes": 8905
+      },
+      {
+        "relPath": "moonly_3d_icons/ic_comp_business.png",
+        "exists": true,
+        "diskSize": 7461,
+        "httpStatus": 200,
+        "httpBytes": 7461
+      },
+      {
+        "relPath": "moonly_3d_icons/ic_comp_joy.png",
+        "exists": true,
+        "diskSize": 5326,
+        "httpStatus": 200,
+        "httpBytes": 5326
+      },
+      {
+        "relPath": "moonly_3d_icons/ic_comp_fortune.png",
+        "exists": true,
+        "diskSize": 5384,
+        "httpStatus": 200,
+        "httpBytes": 5384
+      },
+      {
+        "relPath": "moonly_3d_icons/ic_comp_stability.png",
+        "exists": true,
+        "diskSize": 5855,
+        "httpStatus": 200,
+        "httpBytes": 5855
+      },
+      {
+        "relPath": "moonly_3d_icons/ic_you_report_soulmate.png",
+        "exists": true,
+        "diskSize": 29383,
+        "httpStatus": 200,
+        "httpBytes": 29383
+      },
+      {
+        "relPath": "moonly_3d_icons/moon_15.png",
+        "exists": true,
+        "diskSize": 12036,
+        "httpStatus": 200,
+        "httpBytes": 12036
+      },
+      {
+        "relPath": "moonly_3d_icons/ic_practices.png",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 73
+      },
+      {
+        "relPath": "moonly_3d_icons/ic_natal_small.png",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 75
+      },
+      {
+        "relPath": "01_The_Fool.png",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 56
+      },
+      {
+        "relPath": "02_The_Magician.png",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 60
+      },
+      {
+        "relPath": "03_The_Popess_(The_High_Priestess).png",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 79
+      },
+      {
+        "relPath": "04_The_Empress.png",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 59
+      },
+      {
+        "relPath": "05_The_Emperor.png",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 59
+      },
+      {
+        "relPath": "06_The_Pope_(The_Hierophant).png",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 73
+      },
+      {
+        "relPath": "07_The_Lovers.png",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 58
+      },
+      {
+        "relPath": "08_The_Chariot.png",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 59
+      },
+      {
+        "relPath": "09_Justice.png",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 55
+      },
+      {
+        "relPath": "10_The_Hermit.png",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 58
+      },
+      {
+        "relPath": "11_Wheel_of_Fortune.png",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 64
+      },
+      {
+        "relPath": "12_Strength.png",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 56
+      },
+      {
+        "relPath": "13_The_Hanged_Man.png",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 62
+      },
+      {
+        "relPath": "14_Death.png",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 53
+      },
+      {
+        "relPath": "15_Temperance.png",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 58
+      },
+      {
+        "relPath": "16_The_Devil.png",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 57
+      },
+      {
+        "relPath": "17_The_Tower.png",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 57
+      },
+      {
+        "relPath": "18_The_Star.png",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 56
+      },
+      {
+        "relPath": "19_The_Moon.png",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 56
+      },
+      {
+        "relPath": "20_The_Sun.png",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 55
+      },
+      {
+        "relPath": "21_Judgement.png",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 57
+      },
+      {
+        "relPath": "22_The_World.png",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 57
+      },
+      {
+        "relPath": "05_Fehu.png",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 52
+      },
+      {
+        "relPath": "06_Uruz.png",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 52
+      },
+      {
+        "relPath": "02_Thurisaz.png",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 56
+      },
+      {
+        "relPath": "24_Ansuz.png",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 53
+      },
+      {
+        "relPath": "07_Raido.png",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 53
+      },
+      {
+        "relPath": "08_Kenaz.png",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 53
+      },
+      {
+        "relPath": "11_Gebo.png",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 52
+      },
+      {
+        "relPath": "13_Wunjo.png",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 53
+      },
+      {
+        "relPath": "01_Hagalaz.png",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 55
+      },
+      {
+        "relPath": "15_Nauthiz.png",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 55
+      },
+      {
+        "relPath": "04_Isa.png",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 51
+      },
+      {
+        "relPath": "03_Jera.png",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 52
+      },
+      {
+        "relPath": "23_Eihwaz.png",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 54
+      },
+      {
+        "relPath": "10_Perthro.png",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 55
+      },
+      {
+        "relPath": "22_Algiz.png",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 53
+      },
+      {
+        "relPath": "16_Sowilo.png",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 54
+      },
+      {
+        "relPath": "14_Tiwaz.png",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 53
+      },
+      {
+        "relPath": "12_Berkano.png",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 55
+      },
+      {
+        "relPath": "09_Ehwaz.png",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 53
+      },
+      {
+        "relPath": "21_Mannaz.png",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 54
+      },
+      {
+        "relPath": "20_Laguz.png",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 53
+      },
+      {
+        "relPath": "19_Inguz.png",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 53
+      },
+      {
+        "relPath": "17_Dagaz.png",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 53
+      },
+      {
+        "relPath": "18_Othala.png",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 54
+      },
+      {
+        "relPath": "04_СИМВОЛЫ_И_БОЖЕСТВА/01_Agni.png",
+        "exists": true,
+        "diskSize": 330418,
+        "httpStatus": 200,
+        "httpBytes": 330418
+      },
+      {
+        "relPath": "04_СИМВОЛЫ_И_БОЖЕСТВА/08_Surya.png",
+        "exists": true,
+        "diskSize": 339164,
+        "httpStatus": 200,
+        "httpBytes": 339164
+      },
+      {
+        "relPath": "04_СИМВОЛЫ_И_БОЖЕСТВА/09_Chandra.png",
+        "exists": true,
+        "diskSize": 298410,
+        "httpStatus": 200,
+        "httpBytes": 298410
+      },
+      {
+        "relPath": "04_СИМВОЛЫ_И_БОЖЕСТВА/10_Mangala.png",
+        "exists": true,
+        "diskSize": 315983,
+        "httpStatus": 200,
+        "httpBytes": 315983
+      },
+      {
+        "relPath": "03_ДЕВЫ_МУДРОСТИ/07_Intuition.png",
+        "exists": true,
+        "diskSize": 317416,
+        "httpStatus": 200,
+        "httpBytes": 317416
+      },
+      {
+        "relPath": "03_ДЕВЫ_МУДРОСТИ/13_Feminine_Energy.png",
+        "exists": true,
+        "diskSize": 405062,
+        "httpStatus": 200,
+        "httpBytes": 405062
+      },
+      {
+        "relPath": "03_ДЕВЫ_МУДРОСТИ/08_Nourishing_Yourself.png",
+        "exists": true,
+        "diskSize": 224083,
+        "httpStatus": 200,
+        "httpBytes": 224083
+      },
+      {
+        "relPath": "03_ДЕВЫ_МУДРОСТИ/11_Strength.png",
+        "exists": true,
+        "diskSize": 356726,
+        "httpStatus": 200,
+        "httpBytes": 356726
+      },
+      {
+        "relPath": "01_Default_Female_Muse_journal_600.webp",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 80
+      },
+      {
+        "relPath": "02_Default_Male_Guide_journal_600.webp",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 79
+      },
+      {
+        "relPath": "zodiac_01_Aries_journal_600.webp",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 73
+      },
+      {
+        "relPath": "zodiac_02_Taurus_journal_600.webp",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 74
+      },
+      {
+        "relPath": "zodiac_03_Gemini_journal_600.webp",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 74
+      },
+      {
+        "relPath": "zodiac_04_Cancer_journal_600.webp",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 74
+      },
+      {
+        "relPath": "zodiac_05_Leo_journal_600.webp",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 71
+      },
+      {
+        "relPath": "zodiac_06_Virgo_journal_600.webp",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 73
+      },
+      {
+        "relPath": "zodiac_07_Libra_journal_600.webp",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 73
+      },
+      {
+        "relPath": "zodiac_08_Scorpio_journal_600.webp",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 75
+      },
+      {
+        "relPath": "zodiac_09_Sagittarius_journal_600.webp",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 79
+      },
+      {
+        "relPath": "zodiac_10_Capricorn_journal_600.webp",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 77
+      },
+      {
+        "relPath": "zodiac_11_Aquarius_journal_600.webp",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 76
+      },
+      {
+        "relPath": "zodiac_12_Pisces_journal_600.webp",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 74
+      },
+      {
+        "relPath": "moonly_3d_icons/moon_${day}.png",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 72
+      },
+      {
+        "relPath": "moonly_3d_icons/moon_${moonPhase}.png",
+        "exists": false,
+        "diskSize": 0,
+        "httpStatus": 404,
+        "httpBytes": 78
+      }
+    ]
+  },
+  "dirAudit": [
+    {
+      "name": "3D Луны (30 дней)",
+      "dir": "moonly_3d_icons",
+      "count": 30,
+      "status": "OK"
+    },
+    {
+      "name": "Таро Карты (78 карт + рубашка)",
+      "dir": "01_ТАРО_КАРТЫ",
+      "count": 79,
+      "status": "OK"
+    },
+    {
+      "name": "Скандинавские Руны (24 камня)",
+      "dir": "02_СКАНДИНАВСКИЕ_РУНЫ",
+      "count": 24,
+      "status": "OK"
+    },
+    {
+      "name": "Девы Мудрости (Махавидьи)",
+      "dir": "03_ДЕВЫ_МУДРОСТИ",
+      "count": 57,
+      "status": "OK"
+    },
+    {
+      "name": "Символы и Божества",
+      "dir": "04_СИМВОЛЫ_И_БОЖЕСТВА",
+      "count": 40,
+      "status": "OK"
+    },
+    {
+      "name": "Фоны Лунного Календаря",
+      "dir": "09_ФОНЫ_ЛУННОГО_КАЛЕНДАРЯ",
+      "count": 82,
+      "status": "OK"
+    },
+    {
+      "name": "ИИ Астрологи (Персоны)",
+      "dir": "10_ПЕРСОНАЖИ_ИИ_АСТРОЛОГИ",
+      "count": 5,
+      "status": "OK"
+    },
+    {
+      "name": "Аватары и Звездные Тотемы",
+      "dir": "11_ДЕФОЛТНЫЕ_И_AI_АВАТАРЫ",
+      "count": 18,
+      "status": "OK"
+    }
+  ]
+}

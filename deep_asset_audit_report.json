@@ -1,0 +1,63 @@
+{
+  "total": 413,
+  "diskOk": 411,
+  "httpOk": 411,
+  "diskMissing": 2,
+  "httpFailed": 2,
+  "missingFiles": [
+    {
+      "path": "moonly_3d_icons/moon_${day}.png",
+      "reason": "File not found on disk"
+    },
+    {
+      "path": "moonly_3d_icons/moon_${moonPhase}.png",
+      "reason": "File not found on disk"
+    }
+  ],
+  "httpFailedFiles": [
+    {
+      "path": "moonly_3d_icons/moon_${day}.png",
+      "status": 404,
+      "bytes": 72
+    },
+    {
+      "path": "moonly_3d_icons/moon_${moonPhase}.png",
+      "status": 404,
+      "bytes": 78
+    }
+  ],
+  "categories": [
+    {
+      "cat": "3D Сферы Луны (1-30)",
+      "count": 30
+    },
+    {
+      "cat": "Таро Карты (01_ТАРО_КАРТЫ)",
+      "count": 79
+    },
+    {
+      "cat": "Скандинавские Руны (02_СКАНДИНАВСКИЕ_РУНЫ)",
+      "count": 24
+    },
+    {
+      "cat": "Девы Мудрости (03_ДЕВЫ_МУДРОСТИ)",
+      "count": 57
+    },
+    {
+      "cat": "Божества & Символы (04_СИМВОЛЫ_И_БОЖЕСТВА)",
+      "count": 40
+    },
+    {
+      "cat": "Фоны Лунного Календаря (09_ФОНЫ_ЛУННОГО_КАЛЕНДАРЯ)",
+      "count": 82
+    },
+    {
+      "cat": "ИИ Астрологи (10_ПЕРСОНАЖИ_ИИ_АСТРОЛОГИ)",
+      "count": 5
+    },
+    {
+      "cat": "Аватары и Тотемы (11_ДЕФОЛТНЫЕ_И_AI_АВАТАРЫ)",
+      "count": 60
+    }
+  ]
+}

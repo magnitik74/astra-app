@@ -1,0 +1,303 @@
+{
+  "timestamp": "2026-10-18T17:06:14.631Z",
+  "environment": {
+    "browser": "Microsoft Edge Chromium Headless (CDP)",
+    "viewport": {
+      "width": 430,
+      "height": 932,
+      "deviceScaleFactor": 2
+    },
+    "targetUrl": "http://localhost:3000/%D0%90%D0%A1%D0%A2%D0%A0%D0%90_%D0%90%D0%A1%D0%A1%D0%95%D0%A2%D0%AB/astra_main_app.html"
+  },
+  "tests": [
+    {
+      "name": "Календарь отображается по умолчанию",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Выбор 15-го лунного дня обновляет фазу луны и фон",
+      "passed": true,
+      "details": "Moon: moon_15.png, Bg: 04_The_15th_Moon_Day.jpg"
+    },
+    {
+      "name": "Модальное окно рекомендаций дня открывается корректно",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Модальный 31-дневный лунный календарь-сетка генерируется",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Интерактивный Дневник Снов открывается с полем ввода",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Сон успешно сохраняется в localStorage",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Вкладка «Практики» активируется",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Вытягивание карты Таро: 3D переворот и интерпретация",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Модальное окно углубленного чтения карты Таро открывается",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Сброс расклада возвращает стол в исходное состояние",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Каталог «Все 78 карт» отображает ровно 78 карт",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Фильтр по масти «Кубки» отфильтровал 14 карт",
+      "passed": true,
+      "details": "Найдено: 14"
+    },
+    {
+      "name": "Поиск по картам «Маг» находит карту",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Скандинавские руны: отображаются ровно 24 камня Старшего Футарка",
+      "passed": true,
+      "details": "Найдено: 24"
+    },
+    {
+      "name": "Модальное окно толкования руны Феху открывается",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Девы Мудрости & Божества: отображаются все 97 карт",
+      "passed": true,
+      "details": "Найдено: 97"
+    },
+    {
+      "name": "Аффирмации: циклический генератор меняет цитату",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Вкладка «Исцеление» активна",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Переключение целебной частоты на 528 Гц",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Вкладка «Чат» активна с профилем Луны",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Интерактивный диалог: ответ ИИ-астролога сгенерирован",
+      "passed": true,
+      "details": "Сообщений в чате: 3"
+    },
+    {
+      "name": "Вкладка «Ты» активна",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Модальный выбор аватара содержит 12 Зодиакальных Тотемов + Музу/Проводника",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Выбор тотема Скорпиона обновил главное фото профиля в 216dp рамке",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Модальная Натальная Карта (Джйотиш матрица) открывается",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Модальный расчет Синастрии (Совместимость 85% по 6 сферам) отображается",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Модальный Большой Прогноз на 2026 год открывается",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Отсутствие горизонтального скролла (overflow-x leak) на мобильном экране",
+      "passed": true,
+      "details": "scrollWidth: 430px, clientWidth: 430px"
+    },
+    {
+      "name": "0 неперехваченных исключений JavaScript (Uncaught Exceptions)",
+      "passed": true,
+      "details": "Ошибок: 0"
+    },
+    {
+      "name": "0 фатальных ошибок в console.error",
+      "passed": true,
+      "details": "Ошибок: 0"
+    },
+    {
+      "name": "0 сетевых ошибок HTTP 4xx/5xx",
+      "passed": true,
+      "details": "Ошибок: 0"
+    }
+  ],
+  "consoleLogs": [
+    {
+      "type": "log",
+      "text": "[window.alert intercepted]: Сон успешно сохранен в вашем космическом дневнике!"
+    },
+    {
+      "type": "log",
+      "text": "[window.alert intercepted]: Аватар вашего космического профиля успешно обновлен!"
+    }
+  ],
+  "exceptions": [],
+  "networkErrors": [],
+  "screenshots": [
+    {
+      "filename": "01_screen_calendar_default.png",
+      "path": "D:\\projects\\monly\\test_screenshots\\01_screen_calendar_default.png",
+      "size": 439106
+    },
+    {
+      "filename": "02_calendar_day_15_selected.png",
+      "path": "D:\\projects\\monly\\test_screenshots\\02_calendar_day_15_selected.png",
+      "size": 410144
+    },
+    {
+      "filename": "03_modal_day_recommendations.png",
+      "path": "D:\\projects\\monly\\test_screenshots\\03_modal_day_recommendations.png",
+      "size": 188871
+    },
+    {
+      "filename": "04_modal_monthly_calendar_grid.png",
+      "path": "D:\\projects\\monly\\test_screenshots\\04_modal_monthly_calendar_grid.png",
+      "size": 284954
+    },
+    {
+      "filename": "05_modal_dream_journal.png",
+      "path": "D:\\projects\\monly\\test_screenshots\\05_modal_dream_journal.png",
+      "size": 399152
+    },
+    {
+      "filename": "06_screen_practices_main.png",
+      "path": "D:\\projects\\monly\\test_screenshots\\06_screen_practices_main.png",
+      "size": 246485
+    },
+    {
+      "filename": "07_tarot_spread_card_drawn.png",
+      "path": "D:\\projects\\monly\\test_screenshots\\07_tarot_spread_card_drawn.png",
+      "size": 390843
+    },
+    {
+      "filename": "08_modal_tarot_deep_reading.png",
+      "path": "D:\\projects\\monly\\test_screenshots\\08_modal_tarot_deep_reading.png",
+      "size": 298140
+    },
+    {
+      "filename": "09_tarot_spread_reset.png",
+      "path": "D:\\projects\\monly\\test_screenshots\\09_tarot_spread_reset.png",
+      "size": 229481
+    },
+    {
+      "filename": "10_tarot_catalog_all_78_cards.png",
+      "path": "D:\\projects\\monly\\test_screenshots\\10_tarot_catalog_all_78_cards.png",
+      "size": 1121313
+    },
+    {
+      "filename": "11_tarot_filter_and_search.png",
+      "path": "D:\\projects\\monly\\test_screenshots\\11_tarot_filter_and_search.png",
+      "size": 277221
+    },
+    {
+      "filename": "12_practices_runes_grid.png",
+      "path": "D:\\projects\\monly\\test_screenshots\\12_practices_runes_grid.png",
+      "size": 328433
+    },
+    {
+      "filename": "13_modal_rune_fehu.png",
+      "path": "D:\\projects\\monly\\test_screenshots\\13_modal_rune_fehu.png",
+      "size": 240759
+    },
+    {
+      "filename": "14_practices_wisdom_grid.png",
+      "path": "D:\\projects\\monly\\test_screenshots\\14_practices_wisdom_grid.png",
+      "size": 1075555
+    },
+    {
+      "filename": "15_practices_affirmations.png",
+      "path": "D:\\projects\\monly\\test_screenshots\\15_practices_affirmations.png",
+      "size": 95344
+    },
+    {
+      "filename": "16_screen_healing_mandala.png",
+      "path": "D:\\projects\\monly\\test_screenshots\\16_screen_healing_mandala.png",
+      "size": 140612
+    },
+    {
+      "filename": "17_screen_chat_initial.png",
+      "path": "D:\\projects\\monly\\test_screenshots\\17_screen_chat_initial.png",
+      "size": 110111
+    },
+    {
+      "filename": "18_screen_chat_ai_reply.png",
+      "path": "D:\\projects\\monly\\test_screenshots\\18_screen_chat_ai_reply.png",
+      "size": 147911
+    },
+    {
+      "filename": "19_screen_profile_main.png",
+      "path": "D:\\projects\\monly\\test_screenshots\\19_screen_profile_main.png",
+      "size": 355899
+    },
+    {
+      "filename": "20_modal_avatar_selector.png",
+      "path": "D:\\projects\\monly\\test_screenshots\\20_modal_avatar_selector.png",
+      "size": 394696
+    },
+    {
+      "filename": "21_profile_avatar_scorpio_updated.png",
+      "path": "D:\\projects\\monly\\test_screenshots\\21_profile_avatar_scorpio_updated.png",
+      "size": 343210
+    },
+    {
+      "filename": "22_modal_birth_chart.png",
+      "path": "D:\\projects\\monly\\test_screenshots\\22_modal_birth_chart.png",
+      "size": 257254
+    },
+    {
+      "filename": "23_modal_compatibility_synastry.png",
+      "path": "D:\\projects\\monly\\test_screenshots\\23_modal_compatibility_synastry.png",
+      "size": 239200
+    },
+    {
+      "filename": "24_modal_year_2026_forecast.png",
+      "path": "D:\\projects\\monly\\test_screenshots\\24_modal_year_2026_forecast.png",
+      "size": 259796
+    }
+  ]
+}

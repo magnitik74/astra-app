@@ -1,0 +1,2257 @@
+{
+  "count": 100,
+  "page": 0,
+  "total": 68,
+  "next": null,
+  "previous": null,
+  "data": [
+    {
+      "id": 291,
+      "name": "144 Hz — Гармония и очищение",
+      "categories": [
+        {
+          "categoryId": 22,
+          "categoryIndex": 1,
+          "entityIndex": 5,
+          "name": "Герцы"
+        },
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 0,
+          "name": "Все"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/6a65f451-915d-4926-a120-c641816be81e.jpg",
+      "free": true,
+      "isWelcome": false,
+      "welcomePosition": 0,
+      "description": "Эта частота пробуждает духовную ясность и объединяет разум с сердцем. Помогает восстановить внутреннюю гармонию, укрепить интуицию и очистить энергетику. Слушайте, когда нужно перезагрузиться и вернуться к себе.",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/d3b45eb8-c6b2-4103-a557-527e0e4d6e6e.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/d32c5570d0394fc081dec3f27a4ec565.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/f0507d68-af31-4599-97c4-357d5ee4cbad.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/5ef8073b-3f5e-4bf9-98e2-0a485b716660.jpg",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/208086d7-57b5-40ff-ace5-069b55f3950b.png"
+    },
+    {
+      "id": 294,
+      "name": "Лесные птицы",
+      "categories": [
+        {
+          "categoryId": 18,
+          "categoryIndex": 7,
+          "entityIndex": 2,
+          "name": "Животные"
+        },
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 13,
+          "name": "Все"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/8cbd3a50-7f2f-46ec-8bf0-0b7f706d0100.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 0,
+      "description": "Вы оказываетесь в глубине леса. Птицы поют не напоказ, а тихо, словно дышат вместе с деревьями. Их голоса мягко вплетаются в шелест листвы, создавая ощущение защищенности и покоя. Это тот самый звук, под который хочется читать, дремать или просто слушать, как лес живет своей вечной жизнью.",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/b1ca5d10-6164-4bee-a169-fc86e1310bc7.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/301ea676632e40d5b96a6e726dc5783b.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/5be30b1c-caa0-4103-939e-a12e46fa00f6.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/300967ea-1f87-4b93-8621-4c92931b50c1.png",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/2f5c90b7-c6fa-498e-b395-fdc076969295.png"
+    },
+    {
+      "id": 295,
+      "name": "Птицы для пробуждения",
+      "categories": [
+        {
+          "categoryId": 18,
+          "categoryIndex": 7,
+          "entityIndex": 3,
+          "name": "Животные"
+        },
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 14,
+          "name": "Все"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/cd607f48-f129-4ed4-a24b-b802877a33a3.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 0,
+      "description": "Рассвет раскрывается песней. Зарянки, дрозды и синицы будто соревнуются, чей голос звучит бодрее и радостнее. Их трели переливаются и наполняют пространство энергией нового дня. Этот звук пробуждает лучше любого будильника — мягко, но решительно.",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/95569340-e612-49e7-8d48-e38bd94f9fd5.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/64ae3d89677b4c0392cab7b88454bd68.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/9a45e6d6-372c-47bf-b250-a2b25c7ee849.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/9da28dd3-e841-4842-8392-0942117cd7a9.png",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/437f403b-8d68-409a-9dad-8984916d227b.png"
+    },
+    {
+      "id": 296,
+      "name": "Тропические птицы",
+      "categories": [
+        {
+          "categoryId": 18,
+          "categoryIndex": 7,
+          "entityIndex": 4,
+          "name": "Животные"
+        },
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 15,
+          "name": "Все"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/7032f159-85e0-448c-bcf3-d88a4972196f.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 0,
+      "description": "Представьте себя в зеленой чаще, где влажный воздух наполнен ароматом цветов. Славки, малиновки и тропические дрозды поют так звонко и насыщенно, что кажется, будто джунгли сами играют симфонию рассвета. Этот звук переносит в мир, где утро всегда тёплое, влажное и полное жизни.",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/eb37a5da-8c49-489c-bc8f-99ba5a2a1541.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/c9760958fae74556a8bf54b4d1931376.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/06941582-9e79-4995-8d58-3779367180c4.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/131b7b10-ea91-4e15-9118-e1c9443eead9.png",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/03f8a5af-aac1-4c48-8ebc-6fe3e463dec1.png"
+    },
+    {
+      "id": 298,
+      "name": "Гонг: Энергетический импульс",
+      "categories": [
+        {
+          "categoryId": 19,
+          "categoryIndex": 5,
+          "entityIndex": 9,
+          "name": "Инструменты"
+        },
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 5,
+          "name": "Все"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/17ce3a1b-634a-4066-a88e-da9205cc0247.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 0,
+      "description": "Старт дня, быстрый фокус перед задачей, восстановление энергии.\n\nЭнергичный и пробуждающий звук, словно мощный импульс для всего организма. Его вибрации останавливают внутренний диалог, наполняют силой и готовностью действовать. Идеально подходит для утра или для подзарядки в середине дня, когда нужно вернуть ясность и бодрость. \nВо время прослушивания визуализируйте, как энергия разливается по телу, растворяя усталость и заряжая каждую клетку.\n\nМузыка: Aura Ra",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/7b6e71ed-ae3c-4fe6-95dd-e37acdb039f2.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/6e5b02fb991848059cea91c8b78722ca.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/8cb8a29f-0a2e-4884-a7ce-e63f99627e05.m4a",
+      "soundDuration": 127,
+      "successImageUrl": "https://cdn.moonly.app/uploads/84fe2075-d89e-43e6-9a59-c3736c7c02e3.png",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/c1638d20-3818-46fb-93d3-548f199d0093.png"
+    },
+    {
+      "id": 299,
+      "name": "Гонг: Звуковое путешествие",
+      "categories": [
+        {
+          "categoryId": 19,
+          "categoryIndex": 5,
+          "entityIndex": 10,
+          "name": "Инструменты"
+        },
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 6,
+          "name": "Все"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/223c5888-5b15-4f92-9747-c7bfbcae1709.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 0,
+      "description": "Глубокая медитация, поиск ясности, эмоциональная разгрузка.\n\nПоток вибраций помогает погрузиться в себя и открыть доступ к внутренней ясности. Возникает тишина, на фоне которой легче услышать себя, распутать сложные мысли и отпустить то, что тянет вниз. Во время практики могут подниматься эмоции, чувства и воспоминания. Наблюдайте их и позвольте им растворяться в звуке.\nПеред прослушиванием можно задать намерение или вопрос, и в финале прислушаться к ощущениям и ответам изнутри.\n\nМузыка: Aura Ra",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/15c5fa21-c539-41c2-bba1-d78ff718d4b8.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/90dafed35c21467a9ebb7301cc2bdac1.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/ebd2effb-08eb-441e-8b77-9cc7e194aca4.m4a",
+      "soundDuration": 303,
+      "successImageUrl": "https://cdn.moonly.app/uploads/c059ffd3-3ed2-4864-9c67-1ac8d9ff3803.png",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/e6561755-0f31-41de-b49e-7e17a1947f28.png"
+    },
+    {
+      "id": 300,
+      "name": "Гонг: Фокус и концентрация",
+      "categories": [
+        {
+          "categoryId": 19,
+          "categoryIndex": 5,
+          "entityIndex": 11,
+          "name": "Инструменты"
+        },
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 7,
+          "name": "Все"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/59d36cc9-697b-4b39-8f80-45bd4bc0da2a.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 0,
+      "description": "Настройка внимания, подготовка к работе, обучению. \n\nЗвук собирает рассеянное внимание «в точку». Уходит суета, появляется спокойная собранность и рабочая ясность. Отличная настройка перед любой деятельностью, где важна сосредоточенность.\n\nМузыка: Aura Ra",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/f85cf11f-cd8e-40f6-a07e-767810cd41d1.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/34c0eec9b56e4354b713345e46ce63af.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/a65a8c15-e028-4111-bb9e-6b7cb6a21cb0.m4a",
+      "soundDuration": 126,
+      "successImageUrl": "https://cdn.moonly.app/uploads/0d6b0cef-1852-462b-85f0-1176b7d36854.png",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/698f4040-0bab-4bef-841b-951030eb1545.png"
+    },
+    {
+      "id": 301,
+      "name": "Гонг: Сила намерения",
+      "categories": [
+        {
+          "categoryId": 19,
+          "categoryIndex": 5,
+          "entityIndex": 12,
+          "name": "Инструменты"
+        },
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 8,
+          "name": "Все"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/9f28b3fd-3a2e-4a51-942c-941b8bc51bcb.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 0,
+      "description": "Творческое вдохновение, манифестация желаемого.\n\nСветлый, «воздушный» тембр направляет внимание вверх — к состояниям ясности, вдохновения и расширенного видения. Усиливает практики аффирмаций, визуализации будущего, помогает заякорить намерение.\n\nСформулируйте аффирмацию или намерение, несколько раз мягко проговорите и включите звук гонга. Представляйте желаемое будущее уже свершившимся — будто звук «подсвечивает» путь и запускает процесс реализации.\n\nМузыка: Aura Ra",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/75c3235c-7b3a-4d4f-bb1e-73a7043eb9e3.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/a53a246e492a4ff0bcb61f4afbcbb4ab.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/2bc9aa45-4eba-4878-9163-791e2a9cf689.m4a",
+      "soundDuration": 116,
+      "successImageUrl": "https://cdn.moonly.app/uploads/69d72ede-67c4-461e-8560-a363ff94f834.png",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/653ca4a3-68d3-41fe-a450-25dfeec0b269.png"
+    },
+    {
+      "id": 302,
+      "name": "Гонг: Мягкая перезагрузка",
+      "categories": [
+        {
+          "categoryId": 19,
+          "categoryIndex": 5,
+          "entityIndex": 13,
+          "name": "Инструменты"
+        },
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 9,
+          "name": "Все"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/c8c0bfb3-c7a3-4b56-9757-2b75c5ee44c3.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 0,
+      "description": "Расслабление после насыщенного дня, отпускание напряжения, подготовка ко сну.\n\nДлинное крещендо и тёплый шлейф звука постепенно расслабляют тело, снимают мышечные зажимы и уводят дневной шум. Возвращают ощущение внутреннего покоя и лёгкости. Представляйте мягкие волны, проходящие сверху вниз и уносящие напряжение, переживания и лишние мысли.\n\nМузыка: Aura Ra",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/1cfc4584-0343-4fc6-9e80-adc0504eb853.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/0a198d54b7824362a42cddad34a02b23.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/7478e7a0-78b1-4419-b740-68c1a88b35b0.m4a",
+      "soundDuration": 147,
+      "successImageUrl": "https://cdn.moonly.app/uploads/3d6a45f5-4316-48a8-abf0-c39d30094bfc.png",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/0b43f9e6-a222-46eb-95f4-fe6b16c0dc41.png"
+    },
+    {
+      "id": 303,
+      "name": "Поющая чаша — Заземление",
+      "categories": [
+        {
+          "categoryId": 19,
+          "categoryIndex": 5,
+          "entityIndex": 1,
+          "name": "Инструменты"
+        },
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 0,
+          "name": "Все"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/b808739f-6546-4763-9acf-5bfb6a7fead4.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 0,
+      "description": "Звук этой чаши раскрывается в диапазоне 396 Гц, мягко резонируя с корневой чакрой. Её вибрации согревают, заземляют и дарят уверенность. Они снимают внутренние зажимы и наполняют ощущением устойчивости. В медитации дает чувство безопасности и внутренней опоры, где каждый вдох наполняет, а выдох очищает.",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/03e385be-f0e1-4ce7-8b1d-6c439fc014f5.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/9779f3ce137946e7aa5b791740ee0274.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/d1fcda05-f95e-43af-8b63-663ac3deb270.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/a027b8be-8715-4e8b-afd5-ae7841b8267f.png",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/9c2ee286-da9e-4439-b75e-74c31603fe27.png"
+    },
+    {
+      "id": 304,
+      "name": "Поющая чаша — Радость и свобода",
+      "categories": [
+        {
+          "categoryId": 19,
+          "categoryIndex": 5,
+          "entityIndex": 2,
+          "name": "Инструменты"
+        },
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 0,
+          "name": "Все"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/63ef7789-72c8-4f88-8323-5492342158c6.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 0,
+      "description": "Её чистый звук на частоте 447 Гц резонирует с сердечной чакрой, открывая путь к легкости и радости. Вибрации подобны прозрачному свету — они очищают эмоции и поднимают настроение. Звук освобождает от тяжелых мыслей и помогает найти баланс между умом и сердцем.",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/faa08f01-328e-46f6-87ea-deec56029d1c.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/201304f5643149f69e2ac503d198381b.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/ea0959c7-93fc-410a-805b-c99a9bec141f.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/281f7904-ab42-4bfd-ae8b-eba1c8efb202.png",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/b238c567-fa72-4f28-b225-6fa830782b54.png"
+    },
+    {
+      "id": 305,
+      "name": "Поющая чаша — Раскрытие голоса",
+      "categories": [
+        {
+          "categoryId": 19,
+          "categoryIndex": 5,
+          "entityIndex": 3,
+          "name": "Инструменты"
+        },
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 0,
+          "name": "Все"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/a24571f2-68b2-4592-a039-2be5e65b41c2.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 0,
+      "description": "Звуча на частоте около 503 Гц, она активирует горловую чакру, дарит ясность внутреннего диалога и силу словам. Вибрации помогают освободить голос — как физический, так и внутренний, снимая блоки и возвращая легкость самовыражения. ",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/4bd9e7b1-83cc-4593-a483-b83d85c645b7.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/9f2f9529c6a24bf99556e046c20e29b8.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/46d912ff-f9d8-4a78-b418-6f0496502f63.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/e0dea625-3f7c-4619-8a49-429486306503.png",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/40a64163-1851-4a87-a21d-8037caefe0d7.png"
+    },
+    {
+      "id": 306,
+      "name": "Поющая чаша — Освобождение ",
+      "categories": [
+        {
+          "categoryId": 19,
+          "categoryIndex": 5,
+          "entityIndex": 4,
+          "name": "Инструменты"
+        },
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 0,
+          "name": "Все"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/0fdb3dc1-4a94-4e79-8bac-6a2010e71db5.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 0,
+      "description": "Её звучание напоминает мягкий удар колокола: он отбрасывает страхи, снимает зажатость и возвращает чувство уверенности. Вибрации наполняют тело устойчивостью, а сердце — теплом. В медитации чаша помогает отпустить внутренние ограничения и войти в пространство доверия и свободы.",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/da6e569f-b232-402c-a51c-ddf84e1890a2.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/592c4b9148cb49b5a223bee041e59d9c.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/5b885317-c212-4d6a-9b38-93b4bd13c64b.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/b9f71cce-cb0c-4f2b-a3ce-97aad4505815.png",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/733215d1-2a62-43aa-bfb9-ea8d0f904428.png"
+    },
+    {
+      "id": 307,
+      "name": "Поющая чаша — Равновесие",
+      "categories": [
+        {
+          "categoryId": 19,
+          "categoryIndex": 5,
+          "entityIndex": 5,
+          "name": "Инструменты"
+        },
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 0,
+          "name": "Все"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/740d484e-71bf-4678-8269-fa8b431ff1c3.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 0,
+      "description": "Эта чаша соединяет два тона — 372 и 396 Гц, помогая центрироваться. Звук освобождает ум от лишних мыслей, снимает тревогу и возвращает в состояние доверия. Вибрации ведут от напряжения к спокойствию, от сомнений — к целостности.",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/bb323a31-dc9a-4e51-aa97-9e0d7abe1c6a.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/5114d6912d1443d2af0d01d142f45d6a.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/02229946-f8ff-42a9-b0ff-afcf2de82209.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/cf776c14-bfd2-484f-b9a3-ee8f5c132496.png",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/74ed915f-7a06-4b57-a79d-ca5da8830ddd.png"
+    },
+    {
+      "id": 308,
+      "name": "396 Гц  – Первая чакра",
+      "categories": [
+        {
+          "categoryId": 22,
+          "categoryIndex": 1,
+          "entityIndex": 7,
+          "name": "Герцы"
+        },
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 0,
+          "name": "Все"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/3d211e40-7c44-4b31-89fe-34011536ca71.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 0,
+      "description": "Воздействует на корневую чакру Муладхара в основании позвоночника. Помогает заземлиться, избавиться от страха и вины, вернуть ощущение безопасности. При прослушивании направьте внимание в область копчика и представьте, как из ваших ног в землю уходят мощные корни.",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/e7117a40-a36d-478d-95a7-1daad96941a3.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/7d78d0d2830245da96ed2e75eaefcb91.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/607b5993-0a7b-4884-9057-41ab716f6382.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/7ab4b5be-04de-4700-8a70-bf8742e82332.jpg",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/34da1d34-4698-4849-948c-975da4fed370.jpg"
+    },
+    {
+      "id": 309,
+      "name": "528 Гц — Третья чакра",
+      "categories": [
+        {
+          "categoryId": 22,
+          "categoryIndex": 1,
+          "entityIndex": 9,
+          "name": "Герцы"
+        },
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 0,
+          "name": "Все"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/8153d360-c20c-4e53-b7bf-05124d9a60ba.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 0,
+      "description": "Влияет на третью чакру Манипура в области солнечного сплетения. Вибрации этой частоты пробуждают силу воли и уверенность в себе. Они помогают восстановить эмоциональное равновесие и ощутить внутреннюю устойчивость и центрированность. При прослушивании соберите внутреннее внимание в центре живота.",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/36a80859-dff2-415d-8c70-58f5d951020d.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/a9ed079cc5eb44d093787725d290d0a3.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/2234cd6e-e0eb-48f7-afc3-22fa2a6fa4cf.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/a4b3d70a-94ee-46b7-992b-562ed564fec9.jpg",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/afdb0ca5-fa82-490c-a641-47f5729edd9e.jpg"
+    },
+    {
+      "id": 310,
+      "name": "639 Гц  — Четвертая чакра",
+      "categories": [
+        {
+          "categoryId": 22,
+          "categoryIndex": 1,
+          "entityIndex": 10,
+          "name": "Герцы"
+        },
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 0,
+          "name": "Все"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/0d8876d4-e4aa-471f-a2ea-5184ae6b3e8e.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 0,
+      "description": "Резонирует с четвертой чакрой Анахата, открывая сердце для любви, гармонии и радости. Помогает раскрыть сердечный центр, наладить связь с близкими людьми, простить и отпустить. Слушая, направляйте внутреннее внимание в область сердца и визуализируйте, как там, словно прекрасный цветок, расцветает энергия любви. ",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/4ca1f9ce-7486-47d1-bb63-3c5d05162c71.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/2869781ef07f4bcaafc7df6d50a354a7.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/ce6f51ed-75ca-4940-acd7-9dc0236e6c18.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/0ec7676e-4871-4df5-bcc2-d3009da95161.jpg",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/d40da925-4ad4-4493-931f-08de4089b67d.jpg"
+    },
+    {
+      "id": 311,
+      "name": "741 Гц — Пятая чакра",
+      "categories": [
+        {
+          "categoryId": 22,
+          "categoryIndex": 1,
+          "entityIndex": 11,
+          "name": "Герцы"
+        },
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 0,
+          "name": "Все"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/32860701-6600-4f5a-b9ad-b9e587b6ba85.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 0,
+      "description": "Частота гармонизирует пятую чакру Вишудха в области горла. Очищает от ментального шума и иллюзий, помогает звучать искренне, находить нужные слова и выражать себя через творчество. Представьте, как через горло свободно проходит чистый поток энергии.",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/673e61f8-1692-4ad1-9ab4-2ed11087c515.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/1835583b50694cff91d7691974f380ee.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/ffdc7d06-c16e-44b6-9a27-9ccf6e7a3785.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/a981edb3-eaad-45f8-b69c-e16d884e8e35.jpg",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/06333e68-3e0f-44c5-9079-aaee6016abfd.jpg"
+    },
+    {
+      "id": 312,
+      "name": "852 Гц — Шестая чакра",
+      "categories": [
+        {
+          "categoryId": 22,
+          "categoryIndex": 1,
+          "entityIndex": 12,
+          "name": "Герцы"
+        },
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 0,
+          "name": "Все"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/cdb2aac5-64bc-46ca-881b-cb836b106926.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 0,
+      "description": "Воздействует на шестую чакру Аджна в области третьего глаза. Улучшает интуицию и ясновидение, ведет к расширению сознания и глубокому контакту с Высшим Я. Сосредоточьтесь на точке между бровями и представьте невидимое око, которое смотрит за пределы очевидного. ",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/111625e3-eb99-4606-a4f9-96976f29247c.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/cfb9ed2c3fb14dadb974ee36c78cf305.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/c6c0616a-b4e0-4181-9381-5b3cc3f11d59.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/729810ff-6941-4163-92c4-f21550c033d7.jpg",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/a0dbe9a1-33f2-486f-b7c7-9ccf24a10baa.jpg"
+    },
+    {
+      "id": 313,
+      "name": "963 Гц — Седьмая чакра",
+      "categories": [
+        {
+          "categoryId": 22,
+          "categoryIndex": 1,
+          "entityIndex": 13,
+          "name": "Герцы"
+        },
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 0,
+          "name": "Все"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/e098e982-d7ca-4ba3-baa7-4499b1ec1bc9.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 0,
+      "description": "Резонирует с седьмой чакрой Сахасрара в области макушки головы. Иногда ее называют «частотой Бога». Помогает почувствовать контакт с Высшими силами, единство всего живого. Слушая, вообразите, как из макушки головы исходит бело-золотистый поток, соединяющий вас со Вселенной.",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/e49574e7-f8b7-4fa8-8b38-b90190c07248.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/6b5bdf6d7a584be3a06c242ecc6e5882.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/c7f2226a-c29f-4c96-817c-441062ad9c1c.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/36242d25-5da7-4058-98cd-ac2ca6366fa7.jpg",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/5629593c-568d-4cc4-aa19-6e31a1c1960b.jpg"
+    },
+    {
+      "id": 315,
+      "name": "5 Hz — Медитация",
+      "categories": [
+        {
+          "categoryId": 22,
+          "categoryIndex": 1,
+          "entityIndex": 0,
+          "name": "Герцы"
+        },
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 0,
+          "name": "Все"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/77eb09ea-a638-491f-af6f-997c86fbefda.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 0,
+      "description": "Мягко уводит сознание вглубь, помогая телу и уму раскрыться для медитации и расслабления. Идеальна для начала духовных практик. ",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/71937802-7ae0-4ff5-af32-e94c9a19d3bd.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/965350ca67d7424a9ff4b78222b79aae.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/4b95fef4-c43d-423e-b1ce-24fe6d552291.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/6149ac10-720d-4e13-8964-f9100b561aa4.jpg",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/02dc8e09-87c8-4d37-85b0-f0f2c2c27876.png"
+    },
+    {
+      "id": 316,
+      "name": "9 Hz — Глубокий транс",
+      "categories": [
+        {
+          "categoryId": 22,
+          "categoryIndex": 1,
+          "entityIndex": 1,
+          "name": "Герцы"
+        },
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 0,
+          "name": "Все"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/12a966ad-da3a-473b-b2e5-6099a2334b2b.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 0,
+      "description": "Низкая вибрация, которая погружает в состояние глубокого медитативного транса и тишины",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/9fc27805-f232-4783-885b-f7277d1e17f9.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/97534add204d460e8c1063645df0bfd8.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/fa82728b-b35d-47de-af1f-b0c59f1e64e4.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/6257acc6-7c79-46bd-8386-4af638fb2198.jpg",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/79f2df3c-428c-4226-a216-48653527f1c7.png"
+    },
+    {
+      "id": 317,
+      "name": "11 Hz — Концентрация",
+      "categories": [
+        {
+          "categoryId": 22,
+          "categoryIndex": 1,
+          "entityIndex": 2,
+          "name": "Герцы"
+        },
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 0,
+          "name": "Все"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/44ed8a67-36ba-413b-9ecf-c2ebe6e664c1.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 0,
+      "description": "Активизирует альфа-ритмы мозга, усиливает креативность, концентрацию на задачах и ясность внимания",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/d6546cb8-0a2a-4932-81c6-ee35ce1183bb.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/3c093e8d0214483288146fee0f6607c6.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/1f29312d-021e-4f25-a98a-1d275f39080d.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/3023ddd5-20e9-4ad0-ae92-67c14783fa93.jpg",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/5bc3610c-28d2-4f7f-8d9f-94af38df1471.png"
+    },
+    {
+      "id": 318,
+      "name": "74 Hz — Восстановление",
+      "categories": [
+        {
+          "categoryId": 22,
+          "categoryIndex": 1,
+          "entityIndex": 3,
+          "name": "Герцы"
+        },
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 0,
+          "name": "Все"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/f078256e-f373-4b07-88b1-aafe59733b1d.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 0,
+      "description": "Эта частота поддерживает глубокий, восстанавливающий сон, запускающий процессы обновления на клеточном уровне",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/bf2f118c-4a98-4ef8-888e-a6699a285a21.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/e38d13275b2c4572a11e310c78395a49.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/caa2d17c-cf23-4c58-a5c2-9ce61ad4f371.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/20ffcd5d-af61-4d68-922b-855a0496ccee.jpg",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/cdeaa6d5-053a-4857-afb9-05e9df8517a9.png"
+    },
+    {
+      "id": 319,
+      "name": "132 Hz — Завершение дня",
+      "categories": [
+        {
+          "categoryId": 22,
+          "categoryIndex": 1,
+          "entityIndex": 4,
+          "name": "Герцы"
+        },
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 0,
+          "name": "Все"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/37209e0f-3a58-4d14-a9e2-a3f11bc4460e.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 0,
+      "description": "Помогает телу исцеляться и мягко переходить в состояние глубокого сна, словно приглашая ночь стать временем восстановления.",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/f69c163a-c238-4f02-9a24-94fda8f7d93f.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/40507cba1a3a4b4fab3f36e28751073b.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/37d69f69-26bc-48c5-b8f8-67c6aed7f4cf.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/e246c1f2-8cb5-4fa6-8a06-538733a5829f.jpg",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/272fbdc4-3902-4861-aa96-b268c88c5a59.png"
+    },
+    {
+      "id": 320,
+      "name": "Морские волны",
+      "categories": [
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 0,
+          "name": "Все"
+        },
+        {
+          "categoryId": 27,
+          "categoryIndex": 2,
+          "entityIndex": 0,
+          "name": "ASMR"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/dcb86922-d63e-435b-a67c-199b9923ca67.jpg",
+      "free": true,
+      "isWelcome": false,
+      "welcomePosition": 0,
+      "description": "Мягкие волны накатываются на каменистый пляж. Уединение, тишина, спокойствие. Вода смывает всё лишнее, уносит тревоги и напряжение, оставляя ум кристально чистым. В её тихом шепоте можно услышать то, что давно ждало внимания.",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/46f7c180-ac77-41d2-a10c-8a4f6818be22.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/b8eb8068fe8249aa9b5c09cc28b6d445.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/46e211cb-678c-4086-93a6-0396764a49e7.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/a853d881-ddc9-449a-bbc8-b07be9d1c4cd.jpg",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/d0cecb78-e0e5-45a8-99bd-f49f65fa0e12.png"
+    },
+    {
+      "id": 321,
+      "name": "Шелест листьев",
+      "categories": [
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 0,
+          "name": "Все"
+        },
+        {
+          "categoryId": 27,
+          "categoryIndex": 2,
+          "entityIndex": 0,
+          "name": "ASMR"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/9b83bed5-b988-451b-94d7-ed1703e72db4.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 0,
+      "description": "Поздней осенью лес звучит шуршанием сухих листьев, хрустом веток под ногами, протяжным уханьем сов. Прислушайтесь — а про что это для вас?",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/20248361-6c77-4181-b83b-17f32d22ee37.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/0870a217eb4e4f22915cc9ff97820601.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/140c6989-eb0a-4f3a-a886-25a0369ca891.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/84956cdb-1b75-42ad-af0d-08ba4e5bbe9b.jpg",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/590ce104-fa94-44ae-ad21-16905efcd1d3.png"
+    },
+    {
+      "id": 322,
+      "name": "Шарики Баодин",
+      "categories": [
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 0,
+          "name": "Все"
+        },
+        {
+          "categoryId": 27,
+          "categoryIndex": 2,
+          "entityIndex": 0,
+          "name": "ASMR"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/4aaf8669-2fec-4dc4-8ffd-cdf7b26c854e.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 0,
+      "description": "В ладонях перекатываются гладкие металлические шарики. Внутри каждого из них находится пластина, которая при движении создает мелодичный звон. А вы — дирижер этого маленького оркестра.",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/26c948b7-48ae-4b0c-b27a-2a59f170662b.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/6dda34c89f474a5d8b39d5ba517ef858.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/4efb745f-dd78-47f9-91bd-38990ef8ae2f.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/a939e73a-50ac-4e14-b48f-604001a12ea2.jpg",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/50d373c1-c0db-45da-984f-bc837d8d6016.png"
+    },
+    {
+      "id": 323,
+      "name": "Подводный купол",
+      "categories": [
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 0,
+          "name": "Все"
+        },
+        {
+          "categoryId": 27,
+          "categoryIndex": 2,
+          "entityIndex": 0,
+          "name": "ASMR"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/000f75c8-4dce-4808-bbea-69c4e71c831e.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 0,
+      "description": "Проливной дождь. Вы успели спрятаться в небольшом шатре и теперь слушаете, как капли стучат по его крыше. И в это мгновение в мире нет места уютнее и спокойнее. ",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/d035013f-4ed9-4b78-b73d-605f5ec7b6cd.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/20d22f2cdec94940a4ab28b81308c437.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/0b5d253b-4898-4760-8a6a-c859e2ef19eb.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/66846bde-b0b9-4cb6-b72e-aaefa32cdf7b.jpg",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/c0a6c86c-3339-4857-9b80-429c0d299c52.png"
+    },
+    {
+      "id": 324,
+      "name": "Камин",
+      "categories": [
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 0,
+          "name": "Все"
+        },
+        {
+          "categoryId": 27,
+          "categoryIndex": 2,
+          "entityIndex": 0,
+          "name": "ASMR"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/390c31a4-9a89-47d7-bf25-5f885b3a47db.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 0,
+      "description": "Теплое потрескивание дров в камине, шуршание огня. Мягкий свет танцует на стенах. За окнами зимний вечер, а вам уютно и спокойно, вы дома.  ",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/c784c261-74b6-4bbf-a849-ffb30d4e58c6.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/b13135f5dbfd41e7bf46aae56b28cf9b.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/b8cdfe81-2ce9-4671-8165-16863ec67601.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/61d5bee5-6932-46bf-9ff3-3a52592130fe.jpg",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/e5a1f253-a2bc-4d66-a6b4-7f63336535a8.png"
+    },
+    {
+      "id": 325,
+      "name": "Пена",
+      "categories": [
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 0,
+          "name": "Все"
+        },
+        {
+          "categoryId": 27,
+          "categoryIndex": 2,
+          "entityIndex": 0,
+          "name": "ASMR"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/1106e457-3871-4e85-810c-967199387779.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 0,
+      "description": "В теплой ванне появляются огромные облака белой пены. Легкие пузырьки вспыхивают и лопаются, словно крошечные фейерверки. Всё вокруг наполнено игривым шепотом воды, будто время замерло. Пора принимать ванну! ",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/238bbdb2-983d-4957-9e34-84b9b58b23b8.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/a9ff60c8e3c84b65ab2fa4c213647234.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/f88fbe3c-a307-4a3d-8450-4eaea90474f5.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/65e2a7f1-cdaf-42cb-8b1f-d4d8a5c257d4.jpg",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/fd558385-3663-4dd6-b029-deb43cd51c3a.png"
+    },
+    {
+      "id": 326,
+      "name": "Жевание с хрустом",
+      "categories": [
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 0,
+          "name": "Все"
+        },
+        {
+          "categoryId": 27,
+          "categoryIndex": 2,
+          "entityIndex": 0,
+          "name": "ASMR"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/12bb284e-08a5-463f-8e15-c9e2fb60b107.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 0,
+      "description": "Тонкий, звонкий хруст раздается рядом. Как будто вы сидите за общим столом, и кто-то с аппетитом ломает тонкую корочку хлеба прямо у вас на глазах. И вам уже тоже хочется похрустеть чем-то вкусным!",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/1eff1cdd-1b7e-46c0-8d93-30807ddcf95e.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/df9be14b17a847c796d6737ce9c02ab7.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/4ae7b970-a305-4d14-8bde-5cf9a25cc338.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/05e31807-ba4f-4c67-bb57-8fa40d959c79.jpg",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/c0517f49-2f00-432f-b47c-09a307dd884e.png"
+    },
+    {
+      "id": 327,
+      "name": "Лёд",
+      "categories": [
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 0,
+          "name": "Все"
+        },
+        {
+          "categoryId": 27,
+          "categoryIndex": 2,
+          "entityIndex": 0,
+          "name": "ASMR"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/8e3e2d2a-3fe9-42a6-9604-cb0dc0c9bf7d.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 0,
+      "description": "Жаркий день. В стакане играют кубики льда, создавая кристаллический звон, и каждый звук приносит свежесть и прохладу.",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/933b1a4c-c053-4745-bde3-9b3364b8b9de.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/12cbec7444c547b18f06d673b9c4a5e2.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/5ac34685-e1b0-4337-93cf-36214bd38d42.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/c08c7ff4-4590-4ce9-ad63-71ee7445889a.jpg",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/b0aa9004-0909-4e29-bd63-87766da72cd9.png"
+    },
+    {
+      "id": 329,
+      "name": "417 Гц  – Вторая чакра",
+      "categories": [
+        {
+          "categoryId": 22,
+          "categoryIndex": 1,
+          "entityIndex": 8,
+          "name": "Герцы"
+        },
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 0,
+          "name": "Все"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/4dece039-291b-4e9d-a246-b458e4f06468.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 0,
+      "description": "Воздействует на вторую чакру Свадхистана. Пробуждает витальную энергию в области малого таза, раскрепощает эмоции, помогает снять зажимы и раскрыть чувственность. При прослушивании сосредоточьтесь на нижней части живота и вообразите теплую, текучую энергию, пробуждающуюся внутри.",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/913ecf70-1833-4d96-b525-ae059a9c5913.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/054da4a92965418db61e0853822b2240.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/3ad09381-592a-4892-89d0-9455ab382d49.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/0931aeae-e7b0-4fbd-9c74-bffae593eeda.jpg",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/041e2ead-9f1c-40ea-a52d-87d2f5274d59.jpg"
+    },
+    {
+      "id": 330,
+      "name": "Частота Шумана",
+      "categories": [
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 0,
+          "name": "Все"
+        },
+        {
+          "categoryId": 28,
+          "categoryIndex": 3,
+          "entityIndex": 1,
+          "name": "Бинауральная музыка"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/7df3d570-12f1-4298-91d4-830a84e25480.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 0,
+      "description": "Трек основан на частоте Шумана (7.83 Гц), природном ритме Земли. Альфа-волны (8–12 Гц) помогают расслабиться, восстановить гармонию и настроиться на спокойное состояние, словно дыхание самой планеты становится вашим дыханием.\nТак как в бинауральных битах в каждое ухо подаются звуки с разной частотой, рекомендуем слушать в наушниках.",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/da30804f-ba84-44a7-9825-7f675d649e59.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/0dd5b033eff7432fb6693ba63b937863.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/b069d72a-6673-4949-adde-17b54f206d64.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/e0d89f71-b5ba-4119-bcbb-5aff2c6efbd3.png",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/601bbeb4-ca9f-4482-b2f1-2c02114b92d9.png"
+    },
+    {
+      "id": 331,
+      "name": "Спокойствие и ясность",
+      "categories": [
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 0,
+          "name": "Все"
+        },
+        {
+          "categoryId": 28,
+          "categoryIndex": 3,
+          "entityIndex": 0,
+          "name": "Бинауральная музыка"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/e4920044-9b20-4291-9331-4a53f84fe575.jpg",
+      "free": true,
+      "isWelcome": false,
+      "welcomePosition": 0,
+      "description": "Спокойные и плавные альфа-волны создают атмосферу умиротворения, ясности и внутреннего баланса. Этот трек помогает сосредоточиться на дыхании, погрузиться в медитацию и найти тишину внутри себя.\nТак как в бинауральных битах в каждое ухо подаются звуки с разной частотой, рекомендуем слушать в наушниках.",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/ee2271f6-344f-4fbe-9b94-44543c327551.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/9da8e321d54747ca8d7a1d01b4398e08.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/b82683d1-aa08-4210-8366-424131609922.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/fecbb180-4a5d-4548-86a2-a12309db509d.png",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/6cb35fb8-27c6-4cf6-b5a2-a8dc8ce76c03.png"
+    },
+    {
+      "id": 332,
+      "name": "Рабочий режим",
+      "categories": [
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 0,
+          "name": "Все"
+        },
+        {
+          "categoryId": 28,
+          "categoryIndex": 3,
+          "entityIndex": 2,
+          "name": "Бинауральная музыка"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/a74cd320-940f-492d-8cd1-6e895e3251c8.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 0,
+      "description": "Гамма-частоты (30–100 Гц) активизируют ментальную деятельность, память, концентрацию и сосредоточенность. Эта музыка словно включает дополнительный источник энергии, помогая глубже мыслить и лучше работать.\nТак как в бинауральных битах в каждое ухо подаются звуки с разной частотой, рекомендуем слушать в наушниках.",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/0b4649e6-468a-4267-9186-b1a69e7dbaf1.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/15d1256cf56f47d581f75cb8f56ddf68.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/7ef8f2ea-fefc-48ab-873f-0598ece87955.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/dbddf684-4146-40fc-b65b-d4bb252695e2.png",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/ecf6e96b-9ecc-40a0-baf0-80f235929d1f.png"
+    },
+    {
+      "id": 333,
+      "name": "Вечернее расслабление",
+      "categories": [
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 0,
+          "name": "Все"
+        },
+        {
+          "categoryId": 28,
+          "categoryIndex": 3,
+          "entityIndex": 3,
+          "name": "Бинауральная музыка"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/6c9859d4-9962-4aa4-9253-08f7307db723.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 0,
+      "description": "Альфа-волны (8–12 Гц) ведут к состоянию легкой собранности и внутреннего покоя. Трек помогает отпустить дневное напряжение, обрести гармонию и мягко войти в медитативное состояние.\nТак как в бинауральных битах в каждое ухо подаются звуки с разной частотой, рекомендуем слушать в наушниках.",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/b68aba68-1341-4bb1-85f5-903c23f2ddff.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/8fb09db02a5549d89e6424022f634c6f.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/c8ab5fbb-1f9f-47be-aadc-a08d3e10de1e.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/f186d434-8709-42a1-b0d6-16a64eb5b1a6.png",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/d6336419-b632-48de-ab5f-f758da765ce2.png"
+    },
+    {
+      "id": 334,
+      "name": "Восстановление во сне",
+      "categories": [
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 0,
+          "name": "Все"
+        },
+        {
+          "categoryId": 28,
+          "categoryIndex": 3,
+          "entityIndex": 4,
+          "name": "Бинауральная музыка"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/7b22f269-82c9-43a9-a968-7d6e47b46b41.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 0,
+      "description": "Дельта-волны (1–4 Гц) погружают в глубокие состояния сна и восстановления. Эта музыка помогает телу обновляться, словно каждое дыхание возвращает силы и наполняет энергией жизни.\nТак как в бинауральных битах в каждое ухо подаются звуки с разной частотой, рекомендуем слушать в наушниках.",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/584bc5b5-6b8e-4c88-9b8e-7b72358828d7.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/e83feedcb80749c9a15918c39cbba498.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/e4d6cc19-3293-4d58-b81a-cd6809a0c1e9.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/c9c3045c-3556-4e07-84ae-3d8b60db4ce2.png",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/cb78cc83-434e-408d-a2d6-f8da4972f1c0.png"
+    },
+    {
+      "id": 335,
+      "name": "Креативный поток",
+      "categories": [
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 0,
+          "name": "Все"
+        },
+        {
+          "categoryId": 28,
+          "categoryIndex": 3,
+          "entityIndex": 5,
+          "name": "Бинауральная музыка"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/ab661ade-fbe1-40c1-9007-221e6f5a0e22.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 0,
+      "description": "Субтета-частоты (4–7 Гц) пробуждают воображение и активируют подсознание. Трек вводит в легкую медитацию, стимулирует креативность, восприятие, проясняет мысли. Идеально подходит для работы с подсознанием и творческих процессов. \nТак как в бинауральных битах в каждое ухо подаются звуки с разной частотой, рекомендуем слушать в наушниках.",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/1cebbd4f-de5a-46dc-b84a-dd8a538f8725.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/e8bd6cf71df24f67af2bf140565e3b13.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/0a9b9915-c708-4730-b798-d625cc07ad84.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/a97f1d11-e63b-41a9-ad0a-622c51e552dc.png",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/1da43a17-6f90-4941-862f-a3c27b5b1c36.png"
+    },
+    {
+      "id": 336,
+      "name": "Глубокий отдых",
+      "categories": [
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 0,
+          "name": "Все"
+        },
+        {
+          "categoryId": 28,
+          "categoryIndex": 3,
+          "entityIndex": 6,
+          "name": "Бинауральная музыка"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/75ffc3fc-2820-4951-8d72-135046e8e8cb.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 0,
+      "description": "Глубокие дельта-волны (1–4 Гц) и синусоидальные ритмы создают пространство для полного отдыха. Эта музыка словно убаюкивает, помогая уснуть и восстановиться после насыщенного дня.\nТак как в бинауральных битах в каждое ухо подаются звуки с разной частотой, рекомендуем слушать в наушниках.",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/f7bfe5fc-b746-4447-a692-8b7cc7177c0a.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/4762f2a8661644ec94d887c96000cbd8.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/6e00bde7-685e-4e22-90ac-14ff8aefe456.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/6aa76a8f-7b10-472a-a459-43a0aa81c102.png",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/f0f24bc3-f8c7-49b3-8e26-accf257fa04b.png"
+    },
+    {
+      "id": 261,
+      "name": "Флейта",
+      "categories": [
+        {
+          "categoryId": 19,
+          "categoryIndex": 5,
+          "entityIndex": 7,
+          "name": "Инструменты"
+        },
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 4,
+          "name": "Все"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/bd62e8da-3ee7-4408-8fd4-1206098b66c2.jpg",
+      "free": true,
+      "isWelcome": false,
+      "welcomePosition": 1,
+      "description": "Этническая мелодия помогает найти баланс духовного и материального, земного и небесного. Звучание флейты погружает в состояние созерцания и познания себя в настоящем моменте.",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/29aa074b-6aec-4bf4-a71e-6e3e37de4cd6.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/0ab378dbcb4645c0968b722eb2990aa0.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/8803cda0-2483-46fe-8581-91dc401f134b.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/71a8d6a8-5221-4e77-8036-0ec661a34304.png",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/f79e3d25-4ecb-4ea3-814a-6e3514988adf.png"
+    },
+    {
+      "id": 269,
+      "name": "Гром",
+      "categories": [
+        {
+          "categoryId": 17,
+          "categoryIndex": 4,
+          "entityIndex": 4,
+          "name": "Природа"
+        },
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 22,
+          "name": "Все"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/2b1f8373-c7ac-4164-8e6b-6d11dc47fcf5.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 1,
+      "description": "Тихая мелодия дождя и раскаты грома даруют душе умиротворение, успокаивают нервную систему. Регулярное прослушивание перед сном помогает справиться с бессонницей.",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/83783a2e-9ca1-49ad-a6a4-56f987b69f9c.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/9daadbf1eab84df7bb4942e5a935b346.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/41764a6d-6f4b-40dd-8495-b97096645139.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/b23e0f2d-632e-4fb4-9751-d4017bbe9674.png",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/ff098e3f-7819-471d-ab6c-47509d57ec85.png"
+    },
+    {
+      "id": 280,
+      "name": "Киты",
+      "categories": [
+        {
+          "categoryId": 18,
+          "categoryIndex": 7,
+          "entityIndex": 7,
+          "name": "Животные"
+        },
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 32,
+          "name": "Все"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/c04e87fb-742b-4d9c-8c06-d6af1501834c.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 1,
+      "description": "Киты — единственные млекопитающие, кроме человека, умеющие петь. Так они общаются друг с другом, даже находясь на разных концах света. Их язык остается для нас тайной. Закройте глаза, представьте гладь океана и помечайте, о чем все-таки поют киты…",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/bd509de3-ec87-4b5b-bfab-7cfa51ffab83.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/3f72b1aa3f5448918eb63343858e3664.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/94d27595-995b-4fb7-bbd8-9f929bfe2c67.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/b23bf5d4-2900-400b-909d-53be0e6c39aa.png",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/5effabd4-943d-4f57-937b-f4d737822a58.png"
+    },
+    {
+      "id": 292,
+      "name": "432 Hz — Заземление",
+      "categories": [
+        {
+          "categoryId": 22,
+          "categoryIndex": 1,
+          "entityIndex": 6,
+          "name": "Герцы"
+        },
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 39,
+          "name": "Все"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/85c1e2a9-1064-4048-9151-a59634293da8.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 1,
+      "description": "Частота, резонирующая с ритмами Земли и дарящая ощущение целостности. Успокаивает ум, снижает тревожность и возвращает к состоянию покоя. Слушайте, когда хочется почувствовать связь с собой и природой.",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/d0e2f461-54fa-42e1-a30e-a9a12573a13a.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/cedd4d9ddcc74325bd983d939ae0259d.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/855f492b-01a4-4590-8a99-5ace3ce53395.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/52dfeb34-69a9-4f34-9724-095f039c633d.jpg",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/1ba99e56-5702-453d-abed-55d7f3850da0.png"
+    },
+    {
+      "id": 258,
+      "name": "Ханг",
+      "categories": [
+        {
+          "categoryId": 19,
+          "categoryIndex": 5,
+          "entityIndex": 14,
+          "name": "Инструменты"
+        },
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 11,
+          "name": "Все"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/cbddaf0b-2ea4-40e2-ac87-e072b25cd4fe.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 2,
+      "description": "Уникальный музыкальный инструмент источает вибрации, которые гармонизируют работу многих систем организма. Его космическое звучание поднимает на новый уровень сознания. Звучание останавливает внутренний диалог и открывает простор для самопознания.",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/21830daf-4d18-4f4c-8550-68151e33e5ec.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/a996f3034cd5488fa518490bd9c7254a.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/9606c11e-24ca-4312-88bf-700a980336c8.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/a42a5cfa-de03-4e63-85d0-fddeb2c6072d.png",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/c045e085-ebb1-42a7-a748-225215653096.png"
+    },
+    {
+      "id": 271,
+      "name": "Дождь",
+      "categories": [
+        {
+          "categoryId": 17,
+          "categoryIndex": 4,
+          "entityIndex": 1,
+          "name": "Природа"
+        },
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 2,
+          "name": "Все"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/5350b37e-39b4-49ab-a388-955c3381840c.jpg",
+      "free": true,
+      "isWelcome": false,
+      "welcomePosition": 2,
+      "description": "Закройте глаза. Капли дождя барабанят по крыше. Вы в тепле и уюте. Это и есть мир. Это и есть счастье. Его источник всегда внутри вас.",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/3f9c5baa-ac68-48ff-9ad9-eb63790a4b66.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/09ee90db889f4abe8730f54037d0bb76.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/255f210d-722d-4018-907b-31078bc89081.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/03762605-5862-49e9-a3b1-4290ffff89f3.png",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/a7b88542-ad47-4a8f-bdf0-2e9fd3748491.png"
+    },
+    {
+      "id": 262,
+      "name": "Бубен",
+      "categories": [
+        {
+          "categoryId": 19,
+          "categoryIndex": 5,
+          "entityIndex": 16,
+          "name": "Инструменты"
+        },
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 16,
+          "name": "Все"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/c991ce3a-71e6-42a5-bfd3-88ae83acdf1b.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 3,
+      "description": "Ритмичное звучание бубна использовали шаманы для общения с духами, путешествий в другие миры. Его вибрационная энергия проходит через тело, снимая блоки в системе чакр и каналов. Налаживается контакт с Высшими силами Вселенной.",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/b1a0bb9d-641e-4f3f-8118-69711f5a5cf4.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/5015077dc6e74b0694423e003a9167a4.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/23368f0a-f8e3-4905-809c-a026aa33dd29.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/b2d345dc-954a-4ecf-ade3-de2483d8fc5a.png",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/b3906269-4f28-4e7a-a177-78739e1d09f5.png"
+    },
+    {
+      "id": 268,
+      "name": "Море",
+      "categories": [
+        {
+          "categoryId": 17,
+          "categoryIndex": 4,
+          "entityIndex": 3,
+          "name": "Природа"
+        },
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 21,
+          "name": "Все"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/dbf2a844-b49c-40f1-993c-36df864c2077.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 3,
+      "description": "Море хранит могущественный источник жизненных сил. Шум волн очищает от негативных эмоций и наполняет тело и душу вдохновением. Морская вода смывает ненужные мысли и учит быть счастливым здесь и сейчас.",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/6c73544d-6b94-49e1-b4c5-edc2a86827d3.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/b4eee93e482a4d449175e4c3070902f4.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/3cb590aa-d79d-447f-a401-fda2f0f476f7.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/393bc3ea-b5dc-4fd5-8721-2c6c7ffa79b9.png",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/ceff0ca2-f2b6-4edf-8800-62bf5b21f12f.png"
+    },
+    {
+      "id": 277,
+      "name": "Сверчки",
+      "categories": [
+        {
+          "categoryId": 18,
+          "categoryIndex": 7,
+          "entityIndex": 5,
+          "name": "Животные"
+        },
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 29,
+          "name": "Все"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/c3159dc4-339c-4c0f-afda-ba9304abbd3c.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 3,
+      "description": "Ночная тишина, наполненная трелью сверчков, хранит в себе воспоминания о единении человека с природой. Погружение в нее дает мощное заземление и возвращение к древним корням.",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/6350bb9b-bfe5-4faf-adb8-5a9569c37530.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/fd2f3b74961249319392549cef73d8c8.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/4e28344f-3fe8-4f6d-bd2e-69fa46b9101e.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/f248a329-07c6-45aa-965a-b00b5448c0e9.png",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/eff85df1-2d8c-485f-97ad-663cb6fa12a2.png"
+    },
+    {
+      "id": 284,
+      "name": "Белый шум",
+      "categories": [
+        {
+          "categoryId": 20,
+          "categoryIndex": 6,
+          "entityIndex": 1,
+          "name": "Шумы"
+        },
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 36,
+          "name": "Все"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/f0b2649f-3e2f-4090-971e-ca22d2168548.jpg",
+      "free": true,
+      "isWelcome": false,
+      "welcomePosition": 3,
+      "description": "Включает звуки низкой, средней и высокой частоты одинаковой интенсивности. Похож на шум водопада, дождя, шелест листьев. Помогает расслабиться, быстрее уснуть и спать более глубоким сном. Заглушает посторонние звуки в пространстве.",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/ffc1e920-5bb8-4682-815c-d206fb8b433d.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/3a0445f177414485896b76b9a86fda81.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/945dab66-a0a7-46d1-81ed-c44cb147f988.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/e9bac5db-555a-464c-9894-5dc99a406ec2.png",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/b37a86fc-750e-4a42-a2ba-073477b1ec69.png"
+    },
+    {
+      "id": 260,
+      "name": "Колокольчики",
+      "categories": [
+        {
+          "categoryId": 19,
+          "categoryIndex": 5,
+          "entityIndex": 0,
+          "name": "Инструменты"
+        },
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 3,
+          "name": "Все"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/33c8c239-e842-4ec1-a93b-6076308c8911.jpg",
+      "free": true,
+      "isWelcome": false,
+      "welcomePosition": 4,
+      "description": "Звон колокольчиков способствует энергетической чистке пространства и вашего биополя. Мелодичный перезвон настраивает на медитативное состояние и усиливает любую практику.",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/c50b1517-39c8-4cb5-b51e-8cceab15f40a.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/8fbccfcf6a3f426095154437b8e4cd17.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/0f4df983-688c-4fd7-bbff-43e2b7414349.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/0ab8ce9e-ccdc-4715-b201-7d157d2ea340.png",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/d81a0703-63d9-4b57-a9a5-1ed76890e3cf.png"
+    },
+    {
+      "id": 270,
+      "name": "Ручей",
+      "categories": [
+        {
+          "categoryId": 17,
+          "categoryIndex": 4,
+          "entityIndex": 5,
+          "name": "Природа"
+        },
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 23,
+          "name": "Все"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/8974c3cd-b33d-464b-bcbd-89ef7a3fe697.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 4,
+      "description": "Шелест воды в ручье дарует душевное равновесие, избавляет от стресса и негатива. Визуализируя себя на берегу ручья в гармонии с природой, вы можете входить в ресурсное состояние творца.",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/4c568086-01b1-43d2-b915-b6ce23f19e4d.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/563222d9851d44fda4c2c1aac9a4bd14.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/5bec070a-634e-413d-8b4d-eaf06e321286.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/cd1c1a20-7364-4135-b174-080e9e6546fb.png",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/509fb119-0901-4e7d-ab89-62d39f486ce5.png"
+    },
+    {
+      "id": 276,
+      "name": "Мурчание",
+      "categories": [
+        {
+          "categoryId": 18,
+          "categoryIndex": 7,
+          "entityIndex": 0,
+          "name": "Животные"
+        },
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 28,
+          "name": "Все"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/79e7ff72-b463-4269-86b9-9e0c40fed1be.jpg",
+      "free": true,
+      "isWelcome": false,
+      "welcomePosition": 4,
+      "description": "Кошки мурлыкают в уникальном диапазоне частот. Этот звук положительно влияет на организм человека: стабилизирует нервную систему, нормализует давление и сердечный ритм, дарит положительные эмоции.",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/2ffad11b-c2f2-40e4-be53-8065f69b5a36.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/d59a314ce1274826985efe44c3b0358f.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/bd6ef555-dda3-4055-9e03-7be248f6002c.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/99c29022-1153-40f0-ab0b-502e3323d055.png",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/1374839a-f299-4fd4-a48c-833f42f8ce6d.png"
+    },
+    {
+      "id": 285,
+      "name": "Розовый шум",
+      "categories": [
+        {
+          "categoryId": 20,
+          "categoryIndex": 6,
+          "entityIndex": 2,
+          "name": "Шумы"
+        },
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 37,
+          "name": "Все"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/a07a91f1-a0b4-4187-90c3-4de2dc6a64ca.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 4,
+      "description": "Включает звуки разного спектра с преобладанием низкочастотных, что делает его сбалансированным и естественным. Встречается в шуме морской волны, дождя, биении сердца. Помогает снизить стресс, улучшает память, качество и стабильность глубокого сна.",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/ede3a0c9-a205-43a8-80e1-4585d9896fb6.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/cae7e2c53c164e3fbc3d6f11b154e198.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/ea2463a4-0288-41bf-bcdf-ec5c091f4ef7.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/a036a12f-4fd6-4d0e-90fd-cde51bb72eb9.png",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/63e49c55-70fb-457e-871a-5e40dc31e951.png"
+    },
+    {
+      "id": 273,
+      "name": "Лес",
+      "categories": [
+        {
+          "categoryId": 17,
+          "categoryIndex": 4,
+          "entityIndex": 7,
+          "name": "Природа"
+        },
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 25,
+          "name": "Все"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/aed30742-076e-493d-b22a-f18ee846a0d5.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 5,
+      "description": "Лесная музыка наполнена могущественной созидательной силой. Лес дышит жизнью и наполняет ею ваше тело. Это древнейший энергетический ресурс для всех живых существ.",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/bc25910d-d0a0-46e9-bcfe-92dd425a0b87.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/feb279658ba646b5a14c5f4f8bf97fda.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/b0b54789-a726-4d9b-b76f-180ccadb550d.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/19b217db-3322-4043-9b85-33bd9d290627.png",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/d421fbd8-798e-4ed3-aa5e-a2bbe6d83cca.png"
+    },
+    {
+      "id": 279,
+      "name": "Дельфины",
+      "categories": [
+        {
+          "categoryId": 18,
+          "categoryIndex": 7,
+          "entityIndex": 6,
+          "name": "Животные"
+        },
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 31,
+          "name": "Все"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/f61d8aa7-9b9e-47af-b4de-f43743aa7117.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 5,
+      "description": "Во многих цивилизациях дельфины считаются существами высшего порядка с развитым сознанием. Они обладают мудростью, неподвластной людям, и оказывают на нас положительное влияние на физическом, духовном и эмоциональном уровнях. Подводный мир дельфинов наполнен таинственной музыкой. Их голоса несут мощную исцеляющую энергию на высоких вибрациях. Они наполняют душу ощущением счастья и высшим покоем.",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/d0e7b0be-cab6-496d-9cc5-9b72fba8e0fa.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/38ddde28f4f94863b025db28e78ed320.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/457ff847-a5cd-4477-91b9-7e77cf526826.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/29e5089e-1b96-4b84-9795-9853d383f990.png",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/cb9d87d6-7fe4-432a-8bb4-1ad2d8d9bbcd.png"
+    },
+    {
+      "id": 286,
+      "name": "Серый шум",
+      "categories": [
+        {
+          "categoryId": 20,
+          "categoryIndex": 6,
+          "entityIndex": 3,
+          "name": "Шумы"
+        },
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 38,
+          "name": "Все"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/bec0187f-95c5-4805-9a72-0096bec328ae.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 5,
+      "description": "Включает звуки высоких и низких частот, которые воспринимаются равномерно. Помогает снять напряжение и сконцентрироваться. Создает спокойную атмосферу в пространстве.",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/2422e37f-401f-4fa4-b1ea-41e821323aaf.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/d18a6da940cd4f06a1010284da9c881f.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/23dd6c63-3f5c-4360-aec9-6a90c424b5f5.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/1e2e2f06-903b-49a7-858f-40e3649e32bd.png",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/f017ff36-11fc-4b7a-9458-ecc5c75a798f.png"
+    },
+    {
+      "id": 264,
+      "name": "Поющая чаша — Раскрытие сердца",
+      "categories": [
+        {
+          "categoryId": 19,
+          "categoryIndex": 5,
+          "entityIndex": 6,
+          "name": "Инструменты"
+        },
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 18,
+          "name": "Все"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/0179d1ad-a2ef-4148-951a-349152c35a53.jpg",
+      "free": true,
+      "isWelcome": false,
+      "welcomePosition": 6,
+      "description": "Её вибрация звучит на границе сердечной и горловой чакры — около 370 Гц. Этот голос пробуждает тепло в груди, наполняет сердце мягкой силой и открывает пространство для искренности. Он успокаивает, но не усыпляет, оставляя ум ясным и внимательным. Идеальна для практик принятия, раскрытия сердца и медитаций на любовь и сострадание.",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/97951deb-063c-4f8b-9888-5a411299c88d.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/3b263476246c4f4d90415db5302f6c69.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/ab8b9903-85ce-4b29-a32c-199c95dc75b3.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/fd062d8e-444f-4b97-82bd-8a34829233dc.png",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/61c3bc3d-66bb-462c-9904-deefa197b0b5.png"
+    },
+    {
+      "id": 281,
+      "name": "Волки",
+      "categories": [
+        {
+          "categoryId": 18,
+          "categoryIndex": 7,
+          "entityIndex": 8,
+          "name": "Животные"
+        },
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 33,
+          "name": "Все"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/3b41d687-abaf-4ea1-a600-603c11aab8d6.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 6,
+      "description": "Волки считаются тотемными животными с сильной интуицией. Испокон веков им поклонялись, их боялись и боготворили. Изображение волка служит сильным оберегом. Их суровая, мощная энергия возвращает к древним истокам, когда человек был един с миром природы. Голоса волков могут открыть связь с потусторонним миром.",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/bb007535-78ed-452f-8e30-dda5f7a73cd3.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/71e51deb0a374d29903d4d83650e0e99.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/47f9af2c-d869-470e-b663-0afa336a0e0e.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/ed98e832-15f6-4582-8bdd-974aa91101e4.png",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/5172a9fb-6eb5-4ad7-b729-fe32d45d6d97.png"
+    },
+    {
+      "id": 259,
+      "name": "Варган",
+      "categories": [
+        {
+          "categoryId": 19,
+          "categoryIndex": 5,
+          "entityIndex": 15,
+          "name": "Инструменты"
+        },
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 12,
+          "name": "Все"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/24f42fec-78fd-4c11-8ecf-dcd9e87fe2ce.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 7,
+      "description": "Это магический атрибут шаманских ритуалов. Его звучание расслабляет и вводит в состояние измененного сознания, управляемого транса. Также используется в исцеляющих практиках.",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/3f4e1274-8767-46c7-a1e1-c53089c6ff20.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/1e9d6b4125b14842aaca058a09e36eb8.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/713eddbc-0e38-413c-86ba-716d13cc4338.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/39e9eeb5-7f2b-48e0-a3ff-8cab23ffbfa1.png",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/4e93b9d5-16c3-43a0-ae91-f6c1438af7bf.png"
+    },
+    {
+      "id": 263,
+      "name": "Диджериду",
+      "categories": [
+        {
+          "categoryId": 19,
+          "categoryIndex": 5,
+          "entityIndex": 17,
+          "name": "Инструменты"
+        },
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 17,
+          "name": "Все"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/287f5016-52e8-4ed7-8e33-2f57456bd12a.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 7,
+      "description": "Низкий глубокий рокот ритуального инструмента обладает живительной силой. Он вводит в медитативное состояние, воздействует на энергетические центры тела. Под его звучание благоприятно заниматься дыхательными практиками, массажем.",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/9e047419-ac45-45ce-8727-50d1df43ef19.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/c1e22015dab141419c8e4fd5c9efeb8e.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/205838f7-9181-4afc-bb9b-1194cd39fb57.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/ada0b42f-531d-46a0-b871-20de1e889365.png",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/bce424bf-9ed5-4032-b020-a875e039493d.png"
+    },
+    {
+      "id": 266,
+      "name": "Водопад",
+      "categories": [
+        {
+          "categoryId": 17,
+          "categoryIndex": 4,
+          "entityIndex": 0,
+          "name": "Природа"
+        },
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 1,
+          "name": "Все"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/6c11509c-5825-485d-a42a-0d92c003b054.jpg",
+      "free": true,
+      "isWelcome": false,
+      "welcomePosition": 7,
+      "description": "Шум падающей воды гармонизирует Свадхистана-чакру, которая отвечает за эмоции, наслаждение, творческие силы. Естественная музыка природы возвращает в состояние спокойствия и уравновешенности.",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/07225786-34f6-4437-8b43-0cc8a9d6b548.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/091e878eb1984fbc86a6787f6bca347d.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/38833537-e6ec-4285-8218-572678dbc2f8.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/ac3ae6e6-f938-4150-a7d6-d6b6d7f7de59.png",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/cd81b062-075a-46ea-9b7a-0059786e4b86.png"
+    },
+    {
+      "id": 272,
+      "name": "Глубина",
+      "categories": [
+        {
+          "categoryId": 17,
+          "categoryIndex": 4,
+          "entityIndex": 6,
+          "name": "Природа"
+        },
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 24,
+          "name": "Все"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/889f8aa0-07ad-40e9-9a06-1ee5fecfbeac.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 7,
+      "description": "Атмосфера глубин океана наполнена мистической, ни с чем не сравнимой энергией. Она способна пробудить в вас скрытый потенциал и открыть новые ресурсы.",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/449139a7-3027-45bc-b4e6-0b4ce6482453.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/49d4ec1e587e49d6950513efd88b454c.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/985947aa-dc50-4047-b080-238232ed57ba.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/dbad780f-af0e-42ab-a540-d89c518c1e5b.png",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/a558e91f-ab77-4f8c-b49d-746bdab9d5c3.png"
+    },
+    {
+      "id": 283,
+      "name": "Совы",
+      "categories": [
+        {
+          "categoryId": 18,
+          "categoryIndex": 7,
+          "entityIndex": 9,
+          "name": "Животные"
+        },
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 35,
+          "name": "Все"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/eac8aaa6-5555-4e2d-9922-f7855db11f8c.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 7,
+      "description": "Сова является символом мудрости, интуиции, тайного знания. Считается, что эти обитатели ночи обладают магической силой, способны рассеивать иллюзии. Каждый может услышать в их голосе что-то, доступное только ему. Медитация под низкие голоса сов способствует раскрытию интуиции и усилению внутреннего голоса, поиску истины.",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/27d04c0f-539f-47c4-9aeb-7e92a9e5791e.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/efab59dad3ed4e968c981f4288128cd1.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/982e6533-a287-47e1-b6d8-4f8151c6018c.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/d00615ad-104f-40f3-b27a-62e084ebbfdb.png",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/8d766137-36c5-4b27-a5c5-15a243c37abb.png"
+    },
+    {
+      "id": 265,
+      "name": "Ситар",
+      "categories": [
+        {
+          "categoryId": 19,
+          "categoryIndex": 5,
+          "entityIndex": 18,
+          "name": "Инструменты"
+        },
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 19,
+          "name": "Все"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/9db040cf-eb7f-4b28-8f58-0c473d44f464.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 9,
+      "description": "Звучание древнего индийского инструмента несет в себе таинство и мудрость. Сложные вибрационные волны даруют гармонию и раскрытие внутреннего потенциала. Музыка ситара подходит для медитации, занятия йогой, духовных практик.",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/7180a5f5-5ec1-410e-9fa3-828a7d48fdfd.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/f899d6b08a7a4d7b9143dd0f5510eda6.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/77efe4d7-5cdd-4a40-9593-0df8663be303.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/c93e8688-4979-47ba-95f9-e611d7c249c1.png",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/25880f97-f8f0-4840-8536-ec6559d23267.png"
+    },
+    {
+      "id": 275,
+      "name": "Ветер",
+      "categories": [
+        {
+          "categoryId": 17,
+          "categoryIndex": 4,
+          "entityIndex": 9,
+          "name": "Природа"
+        },
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 27,
+          "name": "Все"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/ed4b91b1-3f01-4720-bf4e-f5543bcf48f2.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 10,
+      "description": "Шум движения воздуха гармонизирует в теле сердечную чакру, Анахата, отвечающую за чувство любви, связь с другими людьми. Сочетая звучание ветра с дыхательными практиками, вы наполняетесь безусловной любовью и состраданием.",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/c590e340-4e1e-4cb7-a19e-f6581613b9ee.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/dd6f245b6a2846d08e779558ed031809.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/55ae9bdf-e3cb-499d-b983-66be03e2daa2.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/f671f74a-f332-41c9-bc1f-a9f330790e01.png",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/b74aa44b-9cb0-49a9-b2bf-43a4d141f865.png"
+    },
+    {
+      "id": 282,
+      "name": "Уду",
+      "categories": [
+        {
+          "categoryId": 19,
+          "categoryIndex": 5,
+          "entityIndex": 19,
+          "name": "Инструменты"
+        },
+        {
+          "categoryId": 24,
+          "categoryIndex": 0,
+          "entityIndex": 34,
+          "name": "Все"
+        }
+      ],
+      "durationText": "",
+      "cardIconUrl": "https://cdn.moonly.app/uploads/590c0913-da36-4522-9615-ac59f39b56a3.jpg",
+      "free": false,
+      "isWelcome": false,
+      "welcomePosition": 10,
+      "description": "Уду — это африканский ударный инструмент, представляющий собой глиняный горшок с отверстием. Традиционно на нем играли женщины. Создаваемые при ударах о стенки вибрации резонируют и создают низкий, гипнотический звук. Ритм его звучания благоприятен для погружения в себя, дарит ощущение силы и уверенности.",
+      "musicAuthorName": "",
+      "voiceAuthorName": "",
+      "videoUrl": "https://cdn.moonly.app/uploads/23661cd2-9acc-4c51-ad16-43c5104f2719.mp4",
+      "videoUrlFrame": "https://cdn-stage.moonly.app/uploads/131dcfad5e1a46d786d2a3f7f360cbb6.png",
+      "soundUrl": "https://cdn.moonly.app/uploads/8f0aa817-271b-43e2-b30b-28d381882448.m4a",
+      "soundDuration": 3600,
+      "successImageUrl": "https://cdn.moonly.app/uploads/cee4fb54-cecd-459a-a82a-a1d8c3a4f8e7.png",
+      "isMantra": false,
+      "shareImageUrl": "https://cdn.moonly.app/uploads/626d4f7a-1b09-4656-ae0e-c807e37a330c.png"
+    }
+  ],
+  "success": true,
+  "message": null,
+  "statusCode": 200,
+  "cache": 1791893470
+}
